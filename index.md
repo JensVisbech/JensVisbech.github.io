@@ -2,7 +2,7 @@ Welcome to my personal webpage. Here you will find highlights and information ab
 
 
 # About me - Jens Visbech
-I'm a 28-year-old originally from the countryside of Jutland, Denmark. However, I've been living in Copenhagen for the past seven years. I have a deep appreciation for travel and enjoy spending my spare time cycling around the outskirts of Copenhagen and whereever I go traveling.
+I'm a 28-year-old originally from the countryside of Jutland, Denmark. However, I've been living in Copenhagen for the past seven years. I have a deep appreciation for travel and enjoy spending my spare time cycling around the outskirts of Copenhagen and wherever I go traveling.
 
 ### Research at the moment:
 I'm currently doing my Ph.D. at the Technical University of Denmark (DTU). My project, "New Advanced Simulation Techniques for Wave Energy Converters," is funded by a DTU Ph.D. scholarship at the Department of Applied Mathematics and Computer Science (Compute) and will continue until January 31, 2026.
@@ -12,7 +12,7 @@ I'm currently doing my Ph.D. at the Technical University of Denmark (DTU). My pr
 * Email (Privat): jenshaakon@gmail.com
 * Phone: +45 60 17 05 72
 
-### Usefull links:
+### Useful links:
 * [ResearchGate](https://www.researchgate.net/profile/Jens_Visbech) 
   
 <br><br><br>
@@ -37,11 +37,13 @@ All preprints are submitted for journal publication.
 
 
 
-### Conference participations and talks
+### Conference participation and talks
 - **2023**
   - ISOPE2023, Ottawa, Canada: "A high-order spectral element based time-domain simulation of a model-scale floating offshore wind turbine".
   - CFC2023, Cannes, France: "Solving the linear radiation problem in 3D using the spectral element method".
-  - SIAM CSE23, Amsterdam, The Netherlands: "Solving the 2D poisson equation with a spectral element based shifted boundary method".
+  - SIAM CSE23, Amsterdam, The Netherlands: "Solving the 2D Poisson equation with a spectral element based shifted boundary method".
 
 - **2022**
   - IWWWFB37, Giardini Naxos, Italy: "Efficient computation of the linear radiation problem using a spectral element method".
+ 
+

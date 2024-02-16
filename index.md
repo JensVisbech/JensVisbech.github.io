@@ -1,11 +1,11 @@
-Welcome to my personal webpage. Here you will find highlights and information about my research.
+Welcome to my personal webpage. Here, you will find highlights and information about my research.
 
 
 # About me - Jens Visbech
-I'm a 28-year-old originally from the countryside of Jutland, Denmark. However, I've been living in Copenhagen for the past seven years. I have a deep appreciation for travel and enjoy spending my spare time cycling around the outskirts of Copenhagen and wherever I go traveling.
+I'm a 29-year-old originally from the countryside of Jutland, Denmark. However, I've been living in Copenhagen for the past eight years. I deeply appreciate travel and enjoy spending my spare time cycling around the outskirts of Copenhagen and wherever I go traveling.
 
 ### Research at the moment:
-I'm currently doing my Ph.D. at the Technical University of Denmark (DTU). My project, "New Advanced Simulation Techniques for Wave Energy Converters," is funded by a DTU Ph.D. scholarship at the Department of Applied Mathematics and Computer Science (Compute) and will continue until January 31, 2026.
+Currently, I'm doing my Ph.D. at the Technical University of Denmark (DTU). My project, "New Advanced Simulation Techniques for Wave Energy Converters," is funded by a DTU Ph.D. scholarship at the Department of Applied Mathematics and Computer Science (Compute) and will continue until January 29, 2026.
 
 ### Contact information:
 * Email (DTU): jvis@dtu.dk
@@ -13,7 +13,8 @@ I'm currently doing my Ph.D. at the Technical University of Denmark (DTU). My pr
 * Phone: +45 60 17 05 72
 
 ### Useful links:
-* [ResearchGate](https://www.researchgate.net/profile/Jens_Visbech) 
+* [ResearchGate](https://www.researchgate.net/profile/Jens_Visbech)
+* [DTU Orbit](https://orbit.dtu.dk/en/persons/jens-h%C3%A5kon-visbech-christensen)
   
 <br><br><br>
 
@@ -31,6 +32,7 @@ All preprints are submitted for journal publication.
 * **Visbech, J**, Engsig-Karup, AP, Bingham, HB. Solving the complete pseudo-impulsive radiation and diffraction problem using a spectral element method. 2023. Preprint available on [arXiv](https://arxiv.org/abs/2306.12854).
 
 ### Conferences papers
+* **Visbech, J**, Engsig-Karup, AP, Bingham, HB, Amini-Afshar, M, Ricchiuto, M. A high-order shifted boundary method for water waves and floating bodies. Proceedings of IWWWFB39. 2024. Available on [ResearchGate](https://www.researchgate.net/publication/378149286_A_high-order_shifted_boundary_method_for_water_waves_and_floating_bodies).
 * **Visbech, J**,  Bingham, HB, Eskilsson, C, Palm, J, Engsig-Karup, AP. A high-order spectral element based time-domain simulation of a model-scale floating offshore wind turbine. Proceedings of ISOPE-2023. 2023. Available on [ResearchGate](https://www.researchgate.net/publication/369269201_A_High-order_Spectral_Element_based_Time-Domain_Simulation_of_a_Model-Scale_Floating_Offshore_Wind_Turbine).
 * **Visbech, J**, Engsig-Karup, AP, Bingham, HB. Efficient computation of the linear radiation problem using a spectral element method. Proceedings of IWWWFB37. 2022. Available on [ResearchGate](https://www.researchgate.net/publication/360261450_Efficient_Computation_of_the_Linear_Radiation_Problem_using_a_Spectral_Element_Method).
 
@@ -38,6 +40,9 @@ All preprints are submitted for journal publication.
 
 
 ### Conference participation and talks
+- **2024**
+  - **(Planned)** IWWWFB, St Andrews, Scotland: "A high-order shifted boundary method for water waves and floating bodies".
+
 - **2023**
   - ISOPE2023, Ottawa, Canada: "A high-order spectral element based time-domain simulation of a model-scale floating offshore wind turbine".
   - CFC2023, Cannes, France: "Solving the linear radiation problem in 3D using the spectral element method".

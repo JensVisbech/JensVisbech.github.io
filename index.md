@@ -5,7 +5,7 @@ Welcome to my personal webpage. Here, you will find highlights and information a
 I'm a 29-year-old originally from the countryside of Jutland, Denmark. However, I've been living in Copenhagen for the past eight years. I deeply appreciate travel and enjoy spending my spare time cycling around the outskirts of Copenhagen and wherever I go traveling.
 
 ### Research at the moment:
-Currently, I'm doing my Ph.D. at the Technical University of Denmark (DTU). My project, "New Advanced Simulation Techniques for Wave Energy Converters," is funded by a DTU Ph.D. scholarship at the Department of Applied Mathematics and Computer Science (Compute) and will continue until January 29, 2026.
+Currently, I'm doing my Ph.D. at the Technical University of Denmark (DTU). My project, "New Advanced Simulation Techniques for Wave Energy Converters," is funded by a DTU Ph.D. scholarship at the Department of Applied Mathematics and Computer Science (Compute) and will continue until January 29, 2026. My main interest - at the moment - is related to unfitted/embedded/immersed boundary methods, i.e. simple ways to circumvent cumbersome mesh generation for finite element methods. That is, of course, connected to problems of wave propagation and wave-structure interactions.
 
 ### Contact information:
 * Email (DTU): jvis@dtu.dk

@@ -21,27 +21,27 @@ Currently, I'm doing my Ph.D. at the Technical University of Denmark (DTU). My p
 
 
 
-# Published research: Accepted journal papers, preprints, peer-reviewed conference papers, conference participations.
+# Published research: Journal papers, preprints, conference papers, and conference participations.
 
-### Journal papers
+### Accepted and published journal papers
 * **Visbech, J**, Engsig-Karup, AP, Bingham, HB. A spectral element solution of the two-dimensional linearized potential flow radiation problem. _Int. J. Numer. Methods Fluids_. 2023; 95(3): 453–471. [doi:10.1002/fld.5157](https://onlinelibrary.wiley.com/doi/10.1002/fld.5157)
+* **Visbech, J**, Engsig-Karup, AP, Bingham, HB. Solving the complete pseudo-impulsive radiation and diffraction problem using a spectral element method. _Comput. Methods Appl. Mech. Eng._ 2024.
 
-### Relevant preprints
+### Relevant (under review) preprints
 All preprints are submitted for journal publication.
+* **Visbech, J**, Bingham, HB, Eskilsson, C, Palm, J, Engsig-Karup, AP. A high-order accuracte spectral element based time-domain simulation of a model-scale floating offshore wind turbine. 2024. ISOPE-2023 proceedings submitted for journal publication in IJOPE.
 * **Visbech, J**, Engsig-Karup, AP, Ricchiuto, M. A spectral element solution of the Poisson equation with shifted boundary polynomial corrections: influence of the surrogate to true boundary mapping and an asymptotically preserving Robin formulation. 2023. Preprint available on [arXiv](https://arxiv.org/abs/2310.17621).
-* **Visbech, J**, Engsig-Karup, AP, Bingham, HB. Solving the complete pseudo-impulsive radiation and diffraction problem using a spectral element method. 2023. Preprint available on [arXiv](https://arxiv.org/abs/2306.12854).
 
-### Conferences papers
+
+### Peer-reviewed conference papers
 * **Visbech, J**, Engsig-Karup, AP, Bingham, HB, Amini-Afshar, M, Ricchiuto, M. A high-order shifted boundary method for water waves and floating bodies. Proceedings of IWWWFB39. 2024. Available on [ResearchGate](https://www.researchgate.net/publication/378149286_A_high-order_shifted_boundary_method_for_water_waves_and_floating_bodies).
 * **Visbech, J**,  Bingham, HB, Eskilsson, C, Palm, J, Engsig-Karup, AP. A high-order spectral element based time-domain simulation of a model-scale floating offshore wind turbine. Proceedings of ISOPE-2023. 2023. Available on [ResearchGate](https://www.researchgate.net/publication/369269201_A_High-order_Spectral_Element_based_Time-Domain_Simulation_of_a_Model-Scale_Floating_Offshore_Wind_Turbine).
 * **Visbech, J**, Engsig-Karup, AP, Bingham, HB. Efficient computation of the linear radiation problem using a spectral element method. Proceedings of IWWWFB37. 2022. Available on [ResearchGate](https://www.researchgate.net/publication/360261450_Efficient_Computation_of_the_Linear_Radiation_Problem_using_a_Spectral_Element_Method).
 
 
-
-
 ### Conference participation and talks
 - **2024**
-  - **(Planned)** IWWWFB, St Andrews, Scotland: "A high-order shifted boundary method for water waves and floating bodies".
+  - **(Planned)** IWWWFB39, St Andrews, Scotland: "A high-order shifted boundary method for water waves and floating bodies".
 
 - **2023**
   - ISOPE2023, Ottawa, Canada: "A high-order spectral element based time-domain simulation of a model-scale floating offshore wind turbine".

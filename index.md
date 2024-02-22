@@ -29,7 +29,7 @@ Currently, I'm doing my Ph.D. at the Technical University of Denmark (DTU). My p
 
 ### Relevant (under review) preprints
 All preprints are submitted for journal publication.
-* **Visbech, J**, Bingham, HB, Eskilsson, C, Palm, J, Engsig-Karup, AP. A high-order accuracte spectral element based time-domain simulation of a model-scale floating offshore wind turbine. 2024. ISOPE-2023 proceedings submitted for journal publication in IJOPE.
+* **Visbech, J**, Bingham, HB, Eskilsson, C, Palm, J, Engsig-Karup, AP. A high-order accurate spectral element based time-domain simulation of a model-scale floating offshore wind turbine. 2024. ISOPE-2023 proceedings submitted for journal publication in IJOPE.
 * **Visbech, J**, Engsig-Karup, AP, Ricchiuto, M. A spectral element solution of the Poisson equation with shifted boundary polynomial corrections: influence of the surrogate to true boundary mapping and an asymptotically preserving Robin formulation. 2023. Preprint available on [arXiv](https://arxiv.org/abs/2310.17621).
 
 

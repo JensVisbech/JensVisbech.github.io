@@ -25,7 +25,7 @@ Currently, I'm doing my Ph.D. at the Technical University of Denmark (DTU). My p
 
 ### Accepted and published journal papers
 * **Visbech, J**, Engsig-Karup, AP, Bingham, HB. A spectral element solution of the two-dimensional linearized potential flow radiation problem. _Int. J. Numer. Methods Fluids_. 2023; 95(3): 453–471. [doi:10.1002/fld.5157](https://onlinelibrary.wiley.com/doi/10.1002/fld.5157)
-* **Visbech, J**, Engsig-Karup, AP, Bingham, HB. Solving the complete pseudo-impulsive radiation and diffraction problem using a spectral element method. _Comput. Methods Appl. Mech. Eng._ 2024.
+* **Visbech, J**, Engsig-Karup, AP, Bingham, HB. Solving the complete pseudo-impulsive radiation and diffraction problem using a spectral element method. _Comput. Methods Appl. Mech. Eng._ 2024; 423: 116871. [doi.org/10.1016/j.cma.2024.116871](https://www.sciencedirect.com/science/article/pii/S0045782524001270)
 
 ### Relevant (under review) preprints
 All preprints are submitted for journal publication.

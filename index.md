@@ -40,17 +40,17 @@ All preprints are submitted for journal publication.
 
 
 ### Conference participation and talks
-| Year        | Name          | Location |  Title of talk(s)  | Link(s) |
-|:-------------|:------------------|:------| :------| :------|
+| Year | Name | Location | Title of talk(s) | Link(s) |
+|:-------------|:------------------|:------|:------|:------|
 | 2024 | IWWWFB39   | St Andrews, Scotland       | "A high-order shifted boundary method for water waves and floating bodies" | hej |
 | 2023 | ISOPE2023  | Ottawa, Canada             | "A high-order spectral element based time-domain simulation of a model-scale floating offshore wind turbine"  | hej |
-|  hej    | CFC2023    | Cannes, France             | "Solving the linear radiation problem in 3D using the spectral element method" | hej |
-|   hej   | SIAM CSE23 | Amsterdam, The Netherlands | "Solving the 2D Poisson equation with a spectral element based shifted boundary method" | hej |
+| hej | CFC2023    | Cannes, France              | "Solving the linear radiation problem in 3D using the spectral element method" | hej |
+| hej | SIAM CSE23 | Amsterdam, The Netherlands  | "Solving the 2D Poisson equation with a spectral element based shifted boundary method" | hej |
 | 2022 | IWWWFB37   | Giardini Naxos, Italy      | "Efficient computation of the linear radiation problem using a spectral element method" | hej |
 
 ###### Header 6
 
-| head1dfgdfgdfgsdfgsdfgsdfgsdasdfsdfsdffg        | head twosdfgdfgsdfgdsdfsdfsdfsdfgsdfgfgdfgdfgdf          | threedasdfsdfsdfsdfsdfsdfgsdfgsdgdsfgdfgdfg |
+| head1        | head          | three|
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |

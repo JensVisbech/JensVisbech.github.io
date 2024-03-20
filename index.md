@@ -40,14 +40,13 @@ All preprints are submitted for journal publication.
 
 
 ### Conference participation and talks
-| Year        | Name          | Location |  Title of talk  |
-|:-------------|:------------------|:------| :------|
-| 2024 | IWWWFB39   | St Andrews, Scotland       | **(Planned)** "A high-order shifted boundary method for water waves and floating bodies" |
-| 2023 | ISOPE2023  | Ottawa, Canada             | "A high-order spectral element based time-domain simulation of a model-scale floating offshore wind turbine"  |
-|      | CFC2023    | Cannes, France             | "Solving the linear radiation problem in 3D using the spectral element method" |
-|      | SIAM CSE23 | Amsterdam, The Netherlands | "Solving the 2D Poisson equation with a spectral element based shifted boundary method" |
-| 2022 | IWWWFB37   | Giardini Naxos, Italy      | "Efficient computation of the linear radiation problem using a spectral element method" |
-| | | | |
+| Year        | Name          | Location |  Title of talk(s)  | Link(s) |
+|:-------------|:------------------|:------| :------| :------|
+| 2024 | IWWWFB39   | St Andrews, Scotland       | * **(Planned)** "A high-order shifted boundary method for water waves and floating bodies" | hej |
+| 2023 | ISOPE2023  | Ottawa, Canada             | * "A high-order spectral element based time-domain simulation of a model-scale floating offshore wind turbine"  | hej |
+|      | CFC2023    | Cannes, France             | * "Solving the linear radiation problem in 3D using the spectral element method" | hej |
+|      | SIAM CSE23 | Amsterdam, The Netherlands | * "Solving the 2D Poisson equation with a spectral element based shifted boundary method" | hej |
+| 2022 | IWWWFB37   | Giardini Naxos, Italy      | * "Efficient computation of the linear radiation problem using a spectral element method" | hej |
 
 ###### Header 6
 

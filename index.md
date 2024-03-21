@@ -4,15 +4,15 @@ Welcome to my personal webpage. Here, you will find highlights and information a
 # About me - Jens Visbech
 I'm a 29-year-old originally from the countryside of Jutland, Denmark. However, I've been living in Copenhagen for the past eight years. I deeply appreciate travel and enjoy spending my spare time cycling around the outskirts of Copenhagen and wherever I go traveling.
 
-### Research at the moment:
+### Research at the moment
 Currently, I'm doing my Ph.D. at the Technical University of Denmark (DTU). My project, "New Advanced Simulation Techniques for Wave Energy Converters," is funded by a DTU Ph.D. scholarship at the Department of Applied Mathematics and Computer Science (Compute) and will continue until January 29, 2026. My main interest - at the moment - is related to unfitted/embedded/immersed boundary methods, i.e. simple ways to circumvent cumbersome mesh generation for finite element methods. That is, of course, connected to problems of wave propagation and wave-structure interactions.
 
-### Contact information:
+### Contact information
 * Email (DTU): jvis@dtu.dk
 * Email (Privat): jenshaakon@gmail.com
 * Phone: +45 60 17 05 72
 
-### Useful links:
+### Useful links
 * [ResearchGate](https://www.researchgate.net/profile/Jens_Visbech)
 * [DTU Orbit](https://orbit.dtu.dk/en/persons/jens-h%C3%A5kon-visbech-christensen)
   
@@ -21,7 +21,7 @@ Currently, I'm doing my Ph.D. at the Technical University of Denmark (DTU). My p
 
 
 
-# Published research: Journal papers, preprints, conference papers, and conference participations.
+# Published research: Journal papers, preprints, conference papers, and conference participations
 
 ### Accepted and published journal papers
 * **Visbech, J**, Engsig-Karup, AP, Bingham, HB. A spectral element solution of the two-dimensional linearized potential flow radiation problem. _Int. J. Numer. Methods Fluids_. 2023; 95(3): 453–471. [doi:10.1002/fld.5157](https://onlinelibrary.wiley.com/doi/10.1002/fld.5157)
@@ -40,7 +40,7 @@ All preprints are submitted for journal publication.
 
 
 
-### Conference contribution, participation and talks
+### Conference contributions, participations, and talks
 | Year | Name | Location | Title of talk(s) | Link(s) |
 |:-------------|:------------------|:------|:------|:------|
 | **2024** | ICCFD12   | Kobe, Japan       | An unfitted high-order spectral element method for incompressible Navier-Stokes equations with a free surface: The pressure problem. (_planned_)  | [Abstract]() |

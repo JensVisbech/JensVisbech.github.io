@@ -16,12 +16,13 @@ Currently, I'm doing my Ph.D. at the Technical University of Denmark (DTU). My p
 * [ResearchGate](https://www.researchgate.net/profile/Jens_Visbech)
 * [DTU Orbit](https://orbit.dtu.dk/en/persons/jens-h%C3%A5kon-visbech-christensen)
   
-<br><br><br>
+<br><br><be>
 
 
 
 
-# Published research: Journal papers, preprints, conference papers, and conference participations
+
+# Published research: 
 
 ### Accepted and published journal papers
 * **Visbech, J**, Engsig-Karup, AP, Bingham, HB. A spectral element solution of the two-dimensional linearized potential flow radiation problem. _Int. J. Numer. Methods Fluids_. 2023; 95(3): 453–471. [doi:10.1002/fld.5157](https://onlinelibrary.wiley.com/doi/10.1002/fld.5157)

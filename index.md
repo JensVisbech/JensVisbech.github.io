@@ -1,7 +1,7 @@
 Welcome to my personal webpage. Here, you will find highlights and information about my research.
 
 
-# About me - Jens Visbech
+# About me
 I'm a 29-year-old originally from the countryside of Jutland, Denmark. However, I've been living in Copenhagen for the past eight years. I deeply appreciate travel and enjoy spending my spare time cycling around the outskirts of Copenhagen and wherever I go traveling.
 
 ### Research at the moment

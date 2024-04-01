@@ -15,8 +15,9 @@ Currently, I'm doing my Ph.D. at the Technical University of Denmark (DTU). My p
 ### Useful links
 * [ResearchGate](https://www.researchgate.net/profile/Jens_Visbech)
 * [DTU Orbit](https://orbit.dtu.dk/en/persons/jens-h%C3%A5kon-visbech-christensen)
+* [Google Scholar](https://scholar.google.dk/citations?user=zY0onFAAAAAJ&hl=da&oi=ao)
   
-<br><br><be>
+<br><br>
 
 
 

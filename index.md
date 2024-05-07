@@ -7,20 +7,12 @@ I'm a 29-year-old originally from the countryside of Jutland, Denmark. However, 
 ### Research at the moment
 Currently, I'm doing my Ph.D. at the Technical University of Denmark (DTU). My project, "New Advanced Simulation Techniques for Wave Energy Converters," is funded by a DTU Ph.D. scholarship at the Department of Applied Mathematics and Computer Science (Compute) and will continue until January 29, 2026. My main interest - at the moment - is related to unfitted/embedded/immersed boundary methods, i.e. simple ways to circumvent cumbersome mesh generation for finite element methods. That is, of course, connected to problems of wave propagation and wave-structure interactions.
 
-### Contact information
-* Email (DTU): jvis@dtu.dk
-* Email (Privat): jenshaakon@gmail.com
-* Phone: +45 60 17 05 72
+### Contact information and useful links
+Email (DTU): jvis@dtu.dk. Email (Privat): jenshaakon@gmail.com. Phone: +45 60 17 05 72.
 
-### Useful links
-* [ResearchGate](https://www.researchgate.net/profile/Jens_Visbech)
-* [DTU Orbit](https://orbit.dtu.dk/en/persons/jens-h%C3%A5kon-visbech-christensen)
-* [Google Scholar](https://scholar.google.dk/citations?user=zY0onFAAAAAJ&hl=da&oi=ao)
+[ResearchGate](https://www.researchgate.net/profile/Jens_Visbech), [DTU Orbit](https://orbit.dtu.dk/en/persons/jens-h%C3%A5kon-visbech-christensen) and [Google Scholar](https://scholar.google.dk/citations?user=zY0onFAAAAAJ&hl=da&oi=ao).
   
 <br><br>
-
-
-
 
 
 # Published research: 
@@ -54,3 +46,27 @@ All preprints are submitted for journal publication.
 |  |     |             |  Reduced order modelling for wave-structure modelling. (_co-authored_)|  [Abstract](https://orbit.dtu.dk/en/publications/reduced-order-modelling-for-wave-structure-modelling) |
 |  | SIAM CSE23 | Amsterdam, The Netherlands  | The shifted boundary method for embedded domain computations using a high-order Spectral Element method for the 2D Poisson problem. | [Abstract](https://orbit.dtu.dk/en/publications/the-shifted-boundary-method-for-embedded-domain-computations-usin) |
 | **2022** | IWWWFB37   | Giardini Naxos, Italy      | Efficient computation of the linear radiation problem using a spectral element method. | [Proceedings](https://www.researchgate.net/publication/360261450_Efficient_Computation_of_the_Linear_Radiation_Problem_using_a_Spectral_Element_Method) |
+
+
+
+
+
+
+
+# Other work: 
+
+### Seminars and non-conference talks
+* May 2024, Maynooth, Ireland, _Simulation of water waves and floating bodies on simple high-order unfitted meshes_, chair: John Ringwood.
+* April 2024, Kgs. Lyngby, Denmark, _A high-order shifted boundary method for water waves and floating bodies_, chair: Harry Bingham.
+* October 2023, Kgs. Lyngby, Denmark, _A high-order accurate shifted boundary method for room acoustics_, chair: Cheol-Ho Jeong.
+* September 2023, Maynooth, Ireland, _New advanced simulation techniques for wave energy converters_, chair: John Ringwood.
+
+### Lectures
+* November 2023,
+* March 2023, 
+
+### Teaching assistant
+* DTU course 02623, [The Finite Element Method for Partial Differential Equations](https://kurser.dtu.dk/course/02623).
+* DTU course 02601, [Introduction to Numerical Algorithms](https://kurser.dtu.dk/course/02601).
+
+

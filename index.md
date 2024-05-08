@@ -15,7 +15,7 @@ Email (DTU): jvis@dtu.dk. Email (Privat): jenshaakon@gmail.com. Phone: +45 60 17
 <br><br>
 
 
-# Published research: 
+# Published research
 
 ### Accepted and published journal papers
 * **Visbech, J**, Engsig-Karup, AP, Bingham, HB. Solving the complete pseudo-impulsive radiation and diffraction problem using a spectral element method. _Comput. Methods Appl. Mech. Eng._ 2024; 423: 116871. [doi.org/10.1016/j.cma.2024.116871](https://www.sciencedirect.com/science/article/pii/S0045782524001270)
@@ -53,20 +53,24 @@ All preprints are submitted for journal publication.
 
 
 
-# Other work: 
+# Other work
 
 ### Seminars and non-conference talks
-* May 2024, Maynooth, Ireland, _Simulation of water waves and floating bodies on simple high-order unfitted meshes_, chair: John Ringwood.
-* April 2024, Kgs. Lyngby, Denmark, _A high-order shifted boundary method for water waves and floating bodies_, chair: Harry Bingham.
-* October 2023, Kgs. Lyngby, Denmark, _A high-order accurate shifted boundary method for room acoustics_, chair: Cheol-Ho Jeong.
-* September 2023, Maynooth, Ireland, _New advanced simulation techniques for wave energy converters_, chair: John Ringwood.
+* _Simulation of water waves and floating bodies on simple high-order unfitted meshes_, May 2024, Maynooth, Ireland, chair: John Ringwood.
+* _A high-order shifted boundary method for water waves and floating bodies_,  April 2024, Kgs. Lyngby, Denmark, chair: Harry Bingham.
+* _A high-order accurate shifted boundary method for room acoustics_, October 2023, Kgs. Lyngby, Denmark, chair: Cheol-Ho Jeong.
+* _New advanced simulation techniques for wave energy converters_, September 2023, Maynooth, Ireland, chair: John Ringwood.
 
-### Lectures
-* November 2023,
+### Lecturing in
+* November 2023, 
 * March 2023, 
 
-### Teaching assistant
+### Teaching Assistant in
 * DTU course 02623, [The Finite Element Method for Partial Differential Equations](https://kurser.dtu.dk/course/02623).
 * DTU course 02601, [Introduction to Numerical Algorithms](https://kurser.dtu.dk/course/02601).
+
+### Projects
+* _New Advanced Simulation Techniques for Wave Energy Converters_. [Current PhD project](https://www.compute.dtu.dk/english/phd/current-phd/phd-sc/jens-visbech). 
+* _Efficient Added Mass Calculations for Large and Complex Floating Offshore Structures_. [COWIfonden (Grant no. A-159.15)](https://www.cowifonden.com/donations/recent-projects/donations-2022).
 
 

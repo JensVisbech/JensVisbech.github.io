@@ -5,21 +5,22 @@ Welcome to my personal webpage. Here, you will find highlights and information a
 I'm a 29-year-old originally from the countryside of Jutland, Denmark. However, I've been living in Copenhagen for the past eight years. I deeply appreciate travel and enjoy spending my spare time cycling around the outskirts of Copenhagen and wherever I go traveling.
 
 ### Research at the moment
-Currently, I'm doing my Ph.D. at the Technical University of Denmark (DTU). My project, "New Advanced Simulation Techniques for Wave Energy Converters," is funded by a DTU Ph.D. scholarship at the Department of Applied Mathematics and Computer Science (Compute) and will continue until January 29, 2026. My main interest - at the moment - is related to unfitted/embedded/immersed boundary methods, i.e. simple ways to circumvent cumbersome mesh generation for finite element methods. That is, of course, connected to problems of wave propagation and wave-structure interactions.
+Currently, I'm doing my Ph.D. at the Technical University of Denmark (DTU). My project, "_New advanced simulation techniques for wave energy converters_", is funded by a DTU Ph.D. scholarship at the Department of Applied Mathematics and Computer Science (Compute) and will continue until January 29, 2026. My main interest - at the moment - is related to unfitted/embedded/immersed boundary methods, i.e. simple ways to circumvent cumbersome mesh generation for finite element methods. That is, of course, connected to problems of wave propagation and wave-structure interactions.
 
 ### Contact information and useful links
-Email (DTU): jvis@dtu.dk. Email (Privat): jenshaakon@gmail.com. Phone: +45 60 17 05 72.
+Emails: jvis@dtu.dk (DTU) and jenshaakon@gmail.com (private).
 
-[ResearchGate](https://www.researchgate.net/profile/Jens_Visbech), [DTU Orbit](https://orbit.dtu.dk/en/persons/jens-h%C3%A5kon-visbech-christensen) and [Google Scholar](https://scholar.google.dk/citations?user=zY0onFAAAAAJ&hl=da&oi=ao).
+Phone: +45 60 17 05 72.
+
+Links: [ResearchGate](https://www.researchgate.net/profile/Jens_Visbech), [DTU Orbit](https://orbit.dtu.dk/en/persons/jens-h%C3%A5kon-visbech-christensen) and [Google Scholar](https://scholar.google.dk/citations?user=zY0onFAAAAAJ&hl=da&oi=ao).
   
 <br><br>
-
 
 # Published research
 
 ### Accepted and published journal papers
-* **Visbech, J**, Engsig-Karup, AP, Bingham, HB. Solving the complete pseudo-impulsive radiation and diffraction problem using a spectral element method. _Comput. Methods Appl. Mech. Eng._ 2024; 423: 116871. [doi.org/10.1016/j.cma.2024.116871](https://www.sciencedirect.com/science/article/pii/S0045782524001270)
-* **Visbech, J**, Engsig-Karup, AP, Bingham, HB. A spectral element solution of the two-dimensional linearized potential flow radiation problem. _Int. J. Numer. Methods Fluids_. 2023; 95(3): 453–471. [doi:10.1002/fld.5157](https://onlinelibrary.wiley.com/doi/10.1002/fld.5157)
+* **Visbech, J**, Engsig-Karup, AP, Bingham, HB. Solving the complete pseudo-impulsive radiation and diffraction problem using a spectral element method. _Comput. Methods Appl. Mech. Eng._ 2024; 423: 116871. [doi.org/10.1016/j.cma.2024.116871](https://www.sciencedirect.com/science/article/pii/S0045782524001270).
+* **Visbech, J**, Engsig-Karup, AP, Bingham, HB. A spectral element solution of the two-dimensional linearized potential flow radiation problem. _Int. J. Numer. Methods Fluids_. 2023; 95(3): 453–471. [doi:10.1002/fld.5157](https://onlinelibrary.wiley.com/doi/10.1002/fld.5157).
 
 ### Relevant (under review) preprints
 All preprints are submitted for journal publication.
@@ -51,7 +52,7 @@ All preprints are submitted for journal publication.
 
 
 
-
+<br><br>
 
 # Other work
 
@@ -62,15 +63,15 @@ All preprints are submitted for journal publication.
 * _New advanced simulation techniques for wave energy converters_, September 2023, Maynooth, Ireland, chair: John Ringwood.
 
 ### Lecturing in
-* November 2023, 
-* March 2023, 
+* DTU course 02689, [Advanced numerical methods for differential equations](https://kurser.dtu.dk/course/02689). Lecture on: _The shifted boundary method for boundary value problems_, November 2023.
+* DTU course 02687, [Scientific computing for ordinary and partial differential equations](https://kurser.dtu.dk/course/02687). Lecture on: _Parabolic partial differential equations_, April 2023.
 
 ### Teaching Assistant in
-* DTU course 02623, [The Finite Element Method for Partial Differential Equations](https://kurser.dtu.dk/course/02623).
-* DTU course 02601, [Introduction to Numerical Algorithms](https://kurser.dtu.dk/course/02601).
+* DTU course 02623, [The finite element method for partial differential equations](https://kurser.dtu.dk/course/02623).
+* DTU course 02601, [Introduction to numerical algorithms](https://kurser.dtu.dk/course/02601).
 
 ### Projects
-* _New Advanced Simulation Techniques for Wave Energy Converters_. [Current PhD project](https://www.compute.dtu.dk/english/phd/current-phd/phd-sc/jens-visbech). 
-* _Efficient Added Mass Calculations for Large and Complex Floating Offshore Structures_. [COWIfonden (Grant no. A-159.15)](https://www.cowifonden.com/donations/recent-projects/donations-2022).
+* _New advanced simulation techniques for wave energy converters_. [Current PhD project](https://www.compute.dtu.dk/english/phd/current-phd/phd-sc/jens-visbech). 
+* _Efficient added mass calculations for large and complex floating offshore structures_. [COWIfonden (Grant no. A-159.15)](https://www.cowifonden.com/donations/recent-projects/donations-2022).
 
 

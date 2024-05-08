@@ -22,8 +22,8 @@ Links: [ResearchGate](https://www.researchgate.net/profile/Jens_Visbech), [DTU O
 * **Visbech, J**, Engsig-Karup, AP, Bingham, HB. Solving the complete pseudo-impulsive radiation and diffraction problem using a spectral element method. _Comput. Methods Appl. Mech. Eng._ 2024; 423: 116871. [doi.org/10.1016/j.cma.2024.116871](https://www.sciencedirect.com/science/article/pii/S0045782524001270).
 * **Visbech, J**, Engsig-Karup, AP, Bingham, HB. A spectral element solution of the two-dimensional linearized potential flow radiation problem. _Int. J. Numer. Methods Fluids_. 2023; 95(3): 453–471. [doi:10.1002/fld.5157](https://onlinelibrary.wiley.com/doi/10.1002/fld.5157).
 
-### Relevant (under review) preprints
-All preprints are submitted for journal publication.
+### Relevant preprints
+All preprints are submitted for journal publication and are currently undergoing review.
 <!-- * Yu, S, ..., **Visbech, J**, ..., Ferrant, P. Modelling the hydrodynamic response of a floating offshore wind turbine - a comparative study, 2024. -->
 * **Visbech, J**, Bingham, HB, Eskilsson, C, Palm, J, Engsig-Karup, AP. A high-order accurate spectral element based time-domain simulation of a model-scale floating offshore wind turbine. 2024. ISOPE-2023 proceedings submitted for journal publication in IJOPE.
 * **Visbech, J**, Engsig-Karup, AP, Ricchiuto, M. A spectral element solution of the Poisson equation with shifted boundary polynomial corrections: influence of the surrogate to true boundary mapping and an asymptotically preserving Robin formulation. 2023. Preprint available on [arXiv](https://arxiv.org/abs/2310.17621).
@@ -37,7 +37,7 @@ All preprints are submitted for journal publication.
 
 
 
-### Conference contributions, participations, and talks
+### Conference contributions and participations
 | Year | Name | Location | Title of talk(s) | Link(s) |
 |:-------------|:------------------|:------|:------|:------|
 | **2024** | ICCFD12   | Kobe, Japan       | An unfitted high-order spectral element method for incompressible Navier-Stokes equations with a free surface: The pressure problem. (_planned_)  | [Abstract](https://orbit.dtu.dk/en/publications/an-unfitted-high-order-spectral-element-method-for-incompressible) |
@@ -56,17 +56,17 @@ All preprints are submitted for journal publication.
 
 # Other work
 
-### Seminars and non-conference talks
+### Seminars and talks
 * _Simulation of water waves and floating bodies on simple high-order unfitted meshes_, May 2024, Maynooth, Ireland, chair: John Ringwood.
 * _A high-order shifted boundary method for water waves and floating bodies_,  April 2024, Kgs. Lyngby, Denmark, chair: Harry Bingham.
 * _A high-order accurate shifted boundary method for room acoustics_, October 2023, Kgs. Lyngby, Denmark, chair: Cheol-Ho Jeong.
 * _New advanced simulation techniques for wave energy converters_, September 2023, Maynooth, Ireland, chair: John Ringwood.
 
-### Lecturing in
+### Lecturing
 * DTU course 02689, [Advanced numerical methods for differential equations](https://kurser.dtu.dk/course/02689). Lecture on: _The shifted boundary method for boundary value problems_, November 2023.
 * DTU course 02687, [Scientific computing for ordinary and partial differential equations](https://kurser.dtu.dk/course/02687). Lecture on: _Parabolic partial differential equations_, April 2023.
 
-### Teaching Assistant in
+### Teaching Assistant
 * DTU course 02623, [The finite element method for partial differential equations](https://kurser.dtu.dk/course/02623).
 * DTU course 02601, [Introduction to numerical algorithms](https://kurser.dtu.dk/course/02601).
 

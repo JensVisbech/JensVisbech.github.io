@@ -38,7 +38,7 @@ All conference papers have undergone some peer-review process.
 
 
 
-### Conference contributions and participations
+# Conference contributions and participations
 | Year | Name | Location | Title of talk(s) | Link(s) |
 |:-------------|:------------------|:------|:------|:------|
 | **2024** | ICCFD12   | Kobe, Japan       | An unfitted high-order spectral element method for incompressible Navier-Stokes equations with a free surface: The pressure problem. (_planned_)  | [Abstract](https://orbit.dtu.dk/en/publications/an-unfitted-high-order-spectral-element-method-for-incompressible) |
@@ -55,7 +55,7 @@ All conference papers have undergone some peer-review process.
 
 <br><br>
 
-# Other work
+# Other
 
 ### Seminars and talks
 * _Simulation of water waves and floating bodies on simple high-order unfitted meshes_, May 2024, Maynooth, Ireland, chair: John Ringwood.
@@ -75,4 +75,7 @@ All conference papers have undergone some peer-review process.
 * _New advanced simulation techniques for wave energy converters_. [Current PhD project](https://www.compute.dtu.dk/english/phd/current-phd/phd-sc/jens-visbech). 
 * _Efficient added mass calculations for large and complex floating offshore structures_. [COWIfonden (Grant no. A-159.15)](https://www.cowifonden.com/donations/recent-projects/donations-2022).
 
-
+### Acquired financial support from
+* Otto Mønsteds Fond for IWWWFB37 (April 2022) and ISOPE2023 (June 2023).
+* William Demant Fonden for IWWWFB39 (April 2024).
+* Skibsteknisk Selskabs Fond for IWWWFB39 (April 2024) and ICCFD12 (July 2024).

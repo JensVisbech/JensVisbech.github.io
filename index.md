@@ -16,7 +16,7 @@ Links: [ResearchGate](https://www.researchgate.net/profile/Jens_Visbech), [DTU O
   
 <br><br>
 
-# Published research
+# Publication list
 
 ### Journal papers
 * **Visbech, J**, Bingham, HB, Eskilsson, C, Palm, J, Engsig-Karup, AP. A high-order accurate spectral element based time-domain simulation of a model-scale floating offshore wind turbine. _Int. J. Offshore Polar_. 2024; (_Accepted_).

@@ -71,10 +71,12 @@ All conference papers have undergone some peer-review process.
 * DTU course 02601, [Introduction to numerical algorithms](https://kurser.dtu.dk/course/02601).
 
 ### Projects
-* _New advanced simulation techniques for wave energy converters_. [Current PhD project](https://www.compute.dtu.dk/english/phd/current-phd/phd-sc/jens-visbech). 
 * _Efficient added mass calculations for large and complex floating offshore structures_. [COWIfonden (Grant no. A-159.15)](https://www.cowifonden.com/donations/recent-projects/donations-2022).
+* _New advanced simulation techniques for wave energy converters_. [Current PhD project](https://www.compute.dtu.dk/english/phd/current-phd/phd-sc/jens-visbech). 
+
 
 ### Acquired financial support from
-* Otto Mønsteds Fond for IWWWFB37 (April 2022) and ISOPE2023 (June 2023).
-* William Demant Fonden for IWWWFB39 (April 2024).
+<!-- * Thomas B. Thriges Fond for ICCFD12 (July 2024).  -->
 * Skibsteknisk Selskabs Fond for IWWWFB39 (April 2024) and ICCFD12 (July 2024).
+* William Demant Fonden for IWWWFB39 (April 2024).
+* Otto Mønsteds Fond for IWWWFB37 (April 2022) and ISOPE2023 (June 2023).

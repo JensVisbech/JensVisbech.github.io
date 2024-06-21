@@ -2,7 +2,7 @@ Welcome to my personal webpage. Here, you will find highlights and information a
 
 
 # About me
-I'm a 29-year-old originally from the countryside of Jutland, Denmark. However, I've been living in Copenhagen for the past eight years. I appreciate travelling and enjoy spending my spare time cycling around the outskirts of Copenhagen and wherever I travel.
+I'm originally from the Jutland countryside in Denmark; however, I've been living in Copenhagen since 2016. I appreciate traveling and enjoy spending my spare time cycling around the outskirts of Zealand and wherever I travel.
 <img src="https://github.com/JensVisbech/JensVisbech.github.io/blob/main/Picture_1.JPG" width="200" height="200">
 
 ### Research at the moment

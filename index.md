@@ -3,6 +3,7 @@ Welcome to my personal webpage. Here, you will find highlights and information a
 
 # About me
 I'm originally from the Jutland countryside in Denmark; however, I've been living in Copenhagen since 2016. I appreciate traveling and enjoy spending my spare time cycling around the outskirts of Zealand and wherever I travel.
+
 <img src="https://github.com/JensVisbech/JensVisbech.github.io/blob/main/Picture_1.JPG" width="200" height="200">
 
 ### Research at the moment
@@ -71,12 +72,13 @@ All conference papers have undergone some peer-review process.
 * DTU course 02601, [Introduction to numerical algorithms](https://kurser.dtu.dk/course/02601).
 
 ### Projects
+* _A new digital twin concept for floating offshore structures_. [COWIfonden (Grant no. A-165.19)](https://www.cowifonden.com/news/news/2024/cowifondens-donations-in-spring-2024).
 * _Efficient added mass calculations for large and complex floating offshore structures_. [COWIfonden (Grant no. A-159.15)](https://www.cowifonden.com/donations/recent-projects/donations-2022).
 * _New advanced simulation techniques for wave energy converters_. [Current PhD project](https://www.compute.dtu.dk/english/phd/current-phd/phd-sc/jens-visbech). 
 
 
 ### Acquired financial support from
-<!-- * Thomas B. Thriges Fond for ICCFD12 (July 2024).  -->
+* Thomas B. Thriges Fond for ICCFD12 (July 2024). 
 * Skibsteknisk Selskabs Fond for IWWWFB39 (April 2024) and ICCFD12 (July 2024).
 * William Demant Fonden for IWWWFB39 (April 2024).
 * Otto Mønsteds Fond for IWWWFB37 (April 2022) and ISOPE2023 (June 2023).

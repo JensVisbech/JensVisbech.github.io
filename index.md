@@ -19,15 +19,16 @@ Links: [ResearchGate](https://www.researchgate.net/profile/Jens_Visbech), [DTU O
 # Publication list
 
 ### Journal papers
+* **Visbech, J**, Engsig-Karup, AP, Ricchiuto, M. A spectral element solution of the Poisson equation with shifted boundary polynomial corrections: influence of the surrogate to true boundary mapping and an asymptotically preserving Robin formulation. 2023. Preprint available on [arXiv](https://arxiv.org/abs/2310.17621). Accepted in _J. Sci. Comput._
 * **Visbech, J**, Bingham, HB, Eskilsson, C, Palm, J, Engsig-Karup, AP. A high-order accurate spectral element-based time-domain simulation of a model-scale floating offshore wind turbine. _Int. J. Offshore Polar_. 2024; 34(3): 254-262. [https://doi.org/10.17736/ijope.2024.sv17](https://www.isope.org/ijope-volume-34-issue-3-september-2024/)
 * **Visbech, J**, Engsig-Karup, AP, Bingham, HB. Solving the complete pseudo-impulsive radiation and diffraction problem using a spectral element method. _Comput. Methods Appl. Mech. Eng._ 2024; 423: 116871. [doi.org/10.1016/j.cma.2024.116871](https://www.sciencedirect.com/science/article/pii/S0045782524001270).
 * **Visbech, J**, Engsig-Karup, AP, Bingham, HB. A spectral element solution of the two-dimensional linearized potential flow radiation problem. _Int. J. Numer. Methods Fluids_. 2023; 95(3): 453–471. [doi:10.1002/fld.5157](https://onlinelibrary.wiley.com/doi/10.1002/fld.5157).
 
 
-### Relevant preprints
-All preprints are submitted for journal publication and are currently undergoing review.
+<!-- ### Relevant preprints  -->
+<!-- All preprints are submitted for journal publication and are currently undergoing review.  -->
 <!-- * Yu, S, ..., **Visbech, J**, ..., Ferrant, P. Modelling the hydrodynamic response of a floating offshore wind turbine - a comparative study, 2024. -->
-* **Visbech, J**, Engsig-Karup, AP, Ricchiuto, M. A spectral element solution of the Poisson equation with shifted boundary polynomial corrections: influence of the surrogate to true boundary mapping and an asymptotically preserving Robin formulation. 2023. Preprint available on [arXiv](https://arxiv.org/abs/2310.17621).
+
 
 
 ### Conference papers
@@ -64,7 +65,7 @@ All conference papers have undergone some peer-review process.
 * _New advanced simulation techniques for wave energy converters_, September 2023, Maynooth, Ireland, chair: John Ringwood.
 
 ### Lecturing
-* DTU course 02689, [Advanced numerical methods for differential equations](https://kurser.dtu.dk/course/02689). Lecture on: _The shifted boundary method for boundary value problems_, November 2023.
+* DTU course 02689, [Advanced numerical methods for differential equations](https://kurser.dtu.dk/course/02689). Lecture on: _The shifted boundary method for boundary value problems_, November 2023 and October 2024.
 * DTU course 02687, [Scientific computing for ordinary and partial differential equations](https://kurser.dtu.dk/course/02687). Lecture on: _Parabolic partial differential equations_, April 2023.
 
 ### Teaching Assistant

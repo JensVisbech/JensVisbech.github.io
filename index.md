@@ -19,8 +19,8 @@ Links: [ResearchGate](https://www.researchgate.net/profile/Jens_Visbech), [DTU O
 # Publication list
 
 ### Journal papers
-* **Visbech, J**, Engsig-Karup, AP, Ricchiuto, M. A spectral element solution of the Poisson equation with shifted boundary polynomial corrections: influence of the surrogate to true boundary mapping and an asymptotically preserving Robin formulation. 2023. Preprint available on [arXiv](https://arxiv.org/abs/2310.17621). Accepted in _J. Sci. Comput._
-* **Visbech, J**, Bingham, HB, Eskilsson, C, Palm, J, Engsig-Karup, AP. A high-order accurate spectral element-based time-domain simulation of a model-scale floating offshore wind turbine. _Int. J. Offshore Polar_. 2024; 34(3): 254-262. [https://doi.org/10.17736/ijope.2024.sv17](https://www.isope.org/ijope-volume-34-issue-3-september-2024/)
+* **Visbech, J**, Engsig-Karup, AP, Ricchiuto, M. A Spectral Element Solution of the Poisson Equation with Shifted Boundary Polynomial Corrections: Influence of the Surrogate to True Boundary Mapping and an Asymptotically Preserving Robin Formulation. _J. Sci. Comput._ 2025; 102(11), [doi.org/10.1007/s10915-024-02713-z](https://doi.org/10.1007/s10915-024-02713-z)
+* **Visbech, J**, Bingham, HB, Eskilsson, C, Palm, J, Engsig-Karup, AP. A high-order accurate spectral element-based time-domain simulation of a model-scale floating offshore wind turbine. _Int. J. Offshore Polar_. 2024; 34(3): 254-262. [doi.org/10.17736/ijope.2024.sv17](https://www.isope.org/ijope-volume-34-issue-3-september-2024/)
 * **Visbech, J**, Engsig-Karup, AP, Bingham, HB. Solving the complete pseudo-impulsive radiation and diffraction problem using a spectral element method. _Comput. Methods Appl. Mech. Eng._ 2024; 423: 116871. [doi.org/10.1016/j.cma.2024.116871](https://www.sciencedirect.com/science/article/pii/S0045782524001270).
 * **Visbech, J**, Engsig-Karup, AP, Bingham, HB. A spectral element solution of the two-dimensional linearized potential flow radiation problem. _Int. J. Numer. Methods Fluids_. 2023; 95(3): 453–471. [doi:10.1002/fld.5157](https://onlinelibrary.wiley.com/doi/10.1002/fld.5157).
 

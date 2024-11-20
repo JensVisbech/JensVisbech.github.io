@@ -19,8 +19,8 @@ Links: [ResearchGate](https://www.researchgate.net/profile/Jens_Visbech), [DTU O
 # Publication list
 
 ### Journal papers
-* **Visbech, J**, Engsig-Karup, AP, Ricchiuto, M. A Spectral Element Solution of the Poisson Equation with Shifted Boundary Polynomial Corrections: Influence of the Surrogate to True Boundary Mapping and an Asymptotically Preserving Robin Formulation. _J. Sci. Comput._ 2025; 102(11), [doi.org/10.1007/s10915-024-02713-z](https://doi.org/10.1007/s10915-024-02713-z)
-* **Visbech, J**, Bingham, HB, Eskilsson, C, Palm, J, Engsig-Karup, AP. A high-order accurate spectral element-based time-domain simulation of a model-scale floating offshore wind turbine. _Int. J. Offshore Polar_. 2024; 34(3): 254-262. [doi.org/10.17736/ijope.2024.sv17](https://www.isope.org/ijope-volume-34-issue-3-september-2024/)
+* **Visbech, J**, Engsig-Karup, AP, Ricchiuto, M. A Spectral Element Solution of the Poisson Equation with Shifted Boundary Polynomial Corrections: Influence of the Surrogate to True Boundary Mapping and an Asymptotically Preserving Robin Formulation. _J. Sci. Comput._ 2025; 102(11). [doi.org/10.1007/s10915-024-02713-z](https://doi.org/10.1007/s10915-024-02713-z).
+* **Visbech, J**, Bingham, HB, Eskilsson, C, Palm, J, Engsig-Karup, AP. A high-order accurate spectral element-based time-domain simulation of a model-scale floating offshore wind turbine. _Int. J. Offshore Polar_. 2024; 34(3): 254-262. [doi.org/10.17736/ijope.2024.sv17](https://www.isope.org/ijope-volume-34-issue-3-september-2024/).
 * **Visbech, J**, Engsig-Karup, AP, Bingham, HB. Solving the complete pseudo-impulsive radiation and diffraction problem using a spectral element method. _Comput. Methods Appl. Mech. Eng._ 2024; 423: 116871. [doi.org/10.1016/j.cma.2024.116871](https://www.sciencedirect.com/science/article/pii/S0045782524001270).
 * **Visbech, J**, Engsig-Karup, AP, Bingham, HB. A spectral element solution of the two-dimensional linearized potential flow radiation problem. _Int. J. Numer. Methods Fluids_. 2023; 95(3): 453–471. [doi:10.1002/fld.5157](https://onlinelibrary.wiley.com/doi/10.1002/fld.5157).
 
@@ -60,10 +60,10 @@ All conference papers have undergone some peer-review process.
 # Other
 
 ### Seminars and talks
-* _Simulation of water waves and floating bodies on simple high-order unfitted meshes_, May 2024, Maynooth, Ireland, chair: John Ringwood.
-* _A high-order shifted boundary method for water waves and floating bodies_,  April 2024, Kgs. Lyngby, Denmark, chair: Harry Bingham.
-* _A high-order accurate shifted boundary method for room acoustics_, October 2023, Kgs. Lyngby, Denmark, chair: Cheol-Ho Jeong.
-* _New advanced simulation techniques for wave energy converters_, September 2023, Maynooth, Ireland, chair: John Ringwood.
+* _Simulation of water waves and floating bodies on simple high-order unfitted meshes_, May 2024,       Maynooth,    Ireland, chair: John Ringwood.
+* _A high-order shifted boundary method for water waves and floating bodies_,           April 2024,     Kgs. Lyngby, Denmark, chair: Harry Bingham.
+* _A high-order accurate shifted boundary method for room acoustics_,                   October 2023,   Kgs. Lyngby, Denmark, chair: Cheol-Ho Jeong.
+* _New advanced simulation techniques for wave energy converters_,                      September 2023, Maynooth,    Ireland, chair: John Ringwood.
 
 ### Lecturing
 * DTU course 02689, [Advanced numerical methods for differential equations](https://kurser.dtu.dk/course/02689). Lecture on: _The shifted boundary method for boundary value problems_, November 2023 and October 2024.
@@ -73,11 +73,12 @@ All conference papers have undergone some peer-review process.
 * DTU course 02623, [The finite element method for partial differential equations](https://kurser.dtu.dk/course/02623).
 * DTU course 02601, [Introduction to numerical algorithms](https://kurser.dtu.dk/course/02601).
 
-### Projects
-* _A new digital twin concept for floating offshore structures_. [COWIfonden (Grant no. A-165.19)](https://www.cowifonden.com/news/news/2024/cowifondens-donations-in-spring-2024).
+### Research projects
+* _A new digital twin concept for floating offshore structures_.                          [COWIfonden (Grant no. A-165.19)](https://www.cowifonden.com/news/news/2024/cowifondens-donations-in-spring-2024).
 * _Efficient added mass calculations for large and complex floating offshore structures_. [COWIfonden (Grant no. A-159.15)](https://www.cowifonden.com/donations/recent-projects/donations-2022).
-* _New advanced simulation techniques for wave energy converters_. [Current PhD project](https://www.compute.dtu.dk/english/phd/current-phd/phd-sc/jens-visbech). 
+* _New advanced simulation techniques for wave energy converters_.                        [Current PhD project](https://www.compute.dtu.dk/english/phd/current-phd/phd-sc/jens-visbech). 
 
+<!--  ### Supervised student projects -->
 
 ### Acquired financial support from
 * Thomas B. Thriges Fond for ICCFD12 (July 2024). 

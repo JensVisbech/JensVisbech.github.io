@@ -19,6 +19,7 @@ Links: [ResearchGate](https://www.researchgate.net/profile/Jens_Visbech), [DTU O
 # Publication list
 
 ### Journal papers
+* Yu, S, ..., **Visbech, J**, ..., Lara, J. L. Modelling the hydrodynamic response of a floating offshore wind turbine – a comparative study. _Appl. Ocean Res._ 2025; 155. [doi.org/10.1016/j.apor.2025.104441](https://doi.org/10.1016/j.apor.2025.104441)
 * **Visbech, J**, Engsig-Karup, AP, Ricchiuto, M. A Spectral Element Solution of the Poisson Equation with Shifted Boundary Polynomial Corrections: Influence of the Surrogate to True Boundary Mapping and an Asymptotically Preserving Robin Formulation. _J. Sci. Comput._ 2025; 102(11). [doi.org/10.1007/s10915-024-02713-z](https://doi.org/10.1007/s10915-024-02713-z).
 * **Visbech, J**, Bingham, HB, Eskilsson, C, Palm, J, Engsig-Karup, AP. A high-order accurate spectral element-based time-domain simulation of a model-scale floating offshore wind turbine. _Int. J. Offshore Polar_. 2024; 34(3): 254-262. [doi.org/10.17736/ijope.2024.sv17](https://www.isope.org/ijope-volume-34-issue-3-september-2024/).
 * **Visbech, J**, Engsig-Karup, AP, Bingham, HB. Solving the complete pseudo-impulsive radiation and diffraction problem using a spectral element method. _Comput. Methods Appl. Mech. Eng._ 2024; 423: 116871. [doi.org/10.1016/j.cma.2024.116871](https://www.sciencedirect.com/science/article/pii/S0045782524001270).
@@ -27,7 +28,7 @@ Links: [ResearchGate](https://www.researchgate.net/profile/Jens_Visbech), [DTU O
 
 <!-- ### Relevant preprints  -->
 <!-- All preprints are submitted for journal publication and are currently undergoing review.  -->
-<!-- * Yu, S, ..., **Visbech, J**, ..., Ferrant, P. Modelling the hydrodynamic response of a floating offshore wind turbine - a comparative study, 2024. -->
+
 
 
 

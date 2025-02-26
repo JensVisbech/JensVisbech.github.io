@@ -4,10 +4,10 @@ Welcome to my personal webpage. Here, you will find highlights and information a
 # About me
 I'm originally from the Jutland countryside in Denmark; however, I've been living in Copenhagen since 2016. I appreciate traveling and enjoy spending my spare time cycling around the outskirts of Zealand and wherever I travel.
 
-<img src="https://github.com/JensVisbech/JensVisbech.github.io/blob/main/Picture_1.JPG" width="200" height="200">
+<!-- <img src="https://github.com/JensVisbech/JensVisbech.github.io/blob/main/Picture_1.JPG" width="200" height="200"> -->
 
 ### Research at the moment
-Currently, I'm doing my PhD at the Technical University of Denmark (DTU). My project, "_New advanced simulation techniques for wave energy converters_", is funded by a DTU PhD scholarship at the Department of Applied Mathematics and Computer Science (Compute) and will continue until January 29, 2026. My main interest - at the moment - is related to unfitted/embedded/immersed boundary methods, i.e. simple ways to circumvent cumbersome mesh generation for finite element methods. That is, of course, connected to problems of wave propagation and wave-structure interactions.
+Currently, I'm doing my PhD at the Technical University of Denmark (DTU). My project, "_New advanced simulation techniques for wave energy converters_", is funded by a DTU PhD scholarship at the Department of Applied Mathematics and Computer Science (Compute) and will continue until October, 2026. My main interest - at the moment - is related to unfitted/embedded/immersed boundary methods, i.e. simple ways to circumvent cumbersome mesh generation for finite element methods. That is, of course, connected to problems of wave propagation and wave-structure interactions.
 
 ### Contact information
 Emails: jvis@dtu.dk (DTU) and jenshaakon@gmail.com (private). Phone: +45 60 17 05 72.

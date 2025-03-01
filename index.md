@@ -79,7 +79,12 @@ All conference papers have undergone some peer-review process.
 * _Efficient added mass calculations for large and complex floating offshore structures_. [COWIfonden (Grant no. A-159.15)](https://www.cowifonden.com/donations/recent-projects/donations-2022).
 * _New advanced simulation techniques for wave energy converters_.                        [Current PhD project](https://www.compute.dtu.dk/english/phd/current-phd/phd-sc/jens-visbech). 
 
-<!--  ### Supervised student projects -->
+### Selected supervised student projects (BSc and MSc theses)
+<!-- * _A new steady-state free surface solver for wave-structure interaction applications_. MSc Thesis. 2025. Student: Simone Minniti. -->
+<!-- * --> 
+<!-- * --> 
+* _Dimensionality Reduction Techniques for Nonlinear Time-dependent Partial Differential Equations_. MSc Thesis. 2025. Student: Laurits Theil Nicolaisen.
+
 
 ### Acquired financial support from
 * Thomas B. Thriges Fond for ICCFD12 (July 2024). 

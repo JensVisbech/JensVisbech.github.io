@@ -28,12 +28,14 @@ Links: [ResearchGate](https://www.researchgate.net/profile/Jens_Visbech), [DTU O
 
 <!-- ### Relevant preprints  -->
 <!-- All preprints are submitted for journal publication and are currently undergoing review.  -->
+<!-- * **Visbech, J**, Melander, A, Engsig-Karup, AP. FNPF-SEM: A parallel spectral element model in Firedrake for fully nonlinear water wave simulations. Preprint on arXiv XXX. 2025. Available on [arXiv]().  -->
 
 
 
 
 ### Conference papers
 All conference papers have undergone some peer-review process. 
+* **Visbech, J**, Melander, A, Engsig-Karup, AP. Modeling Nonlinear and Dispersive Wave Propagation and Wave-structure Interactions in Firedrake. Proceedings of ICSOS2025. 2025. Available on [ResearchGate]() soon.
 * **Visbech, J**, Engsig-Karup, AP, Bingham, HB, Amini-Afshar, M, Ricchiuto, M. A high-order shifted boundary method for water waves and floating bodies. Proceedings of IWWWFB39. 2024. Available on [ResearchGate](https://www.researchgate.net/publication/378149286_A_high-order_shifted_boundary_method_for_water_waves_and_floating_bodies).
 * **Visbech, J**,  Bingham, HB, Eskilsson, C, Palm, J, Engsig-Karup, AP. A high-order spectral element based time-domain simulation of a model-scale floating offshore wind turbine. Proceedings of ISOPE-2023. 2023. Available on [ResearchGate](https://www.researchgate.net/publication/369269201_A_High-order_Spectral_Element_based_Time-Domain_Simulation_of_a_Model-Scale_Floating_Offshore_Wind_Turbine).
 * **Visbech, J**, Engsig-Karup, AP, Bingham, HB. Efficient computation of the linear radiation problem using a spectral element method. Proceedings of IWWWFB37. 2022. Available on [ResearchGate](https://www.researchgate.net/publication/360261450_Efficient_Computation_of_the_Linear_Radiation_Problem_using_a_Spectral_Element_Method).
@@ -44,6 +46,7 @@ All conference papers have undergone some peer-review process.
 | Year | Name | Location | Title of talk(s) | Link(s) |
 |:-------------|:------------------|:------|:------|:------|
 | **2025** | DNV   | Kgs. Lyngby, Denmark       |  A Digital Twin Framework for Massively Parallel Simulations of Water Waves interacting with Large-Scale Offshore Structures | [Abstract](https://orbit.dtu.dk/en/publications/a-digital-twin-framework-for-massively-parallel-simulations-of-wa) |
+|  | ICSOS2025   | Gothenburg, Sweden (planned)      |  Modeling Nonlinear and Dispersive Wave Propagation and Wave-structure Interactions in Firedrake | [Proceedings]() [Abstract]() |
 | **2024** | ICCFD12   | Kobe, Japan       | An unfitted high-order spectral element method for incompressible Navier-Stokes equations with a free surface: The pressure problem.  | [Abstract](https://orbit.dtu.dk/en/publications/an-unfitted-high-order-spectral-element-method-for-incompressible) |
 |  | IWWWFB39   | St Andrews, Scotland       | A high-order shifted boundary method for water waves and floating bodies.  | [Proceedings](https://www.researchgate.net/publication/378149286_A_high-order_shifted_boundary_method_for_water_waves_and_floating_bodies) |
 | **2023** | ISOPE2023  | Ottawa, Canada             | A high-order spectral element based time-domain simulation of a model-scale floating offshore wind turbine.  | [Proceedings](https://www.researchgate.net/publication/369269201_A_High-order_Spectral_Element_based_Time-Domain_Simulation_of_a_Model-Scale_Floating_Offshore_Wind_Turbine) [Abstract](https://orbit.dtu.dk/en/publications/a-linear-3d-spectral-element-time-domain-solution-to-a-floating-o) |

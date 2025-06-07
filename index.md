@@ -84,7 +84,7 @@ All conference papers have undergone some peer-review process.
 
 ### Selected supervised student projects (BSc and MSc theses)
 <!-- * _A new steady-state free surface solver for wave-structure interaction applications_. MSc Thesis. 2025. Student: Simone Minniti. -->
-<!-- * --> 
+<!-- *  --> 
 <!-- * --> 
 * _Dimensionality Reduction Techniques for Nonlinear Time-dependent Partial Differential Equations_. MSc Thesis. 2025. Student: Laurits Theil Nicolaisen.
 

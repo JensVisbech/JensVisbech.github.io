@@ -26,9 +26,9 @@ Links: [ResearchGate](https://www.researchgate.net/profile/Jens_Visbech), [DTU O
 * **Visbech, J**, Engsig-Karup, AP, Bingham, HB. A spectral element solution of the two-dimensional linearized potential flow radiation problem. _Int. J. Numer. Methods Fluids_. 2023; 95(3): 453–471. [doi:10.1002/fld.5157](https://onlinelibrary.wiley.com/doi/10.1002/fld.5157).
 
 
-<!-- ### Relevant preprints  -->
-<!-- All preprints are submitted for journal publication and are currently undergoing review.  -->
-<!-- * **Visbech, J**, Melander, A, Engsig-Karup, AP. FNPF-SEM: A parallel spectral element model in Firedrake for fully nonlinear water wave simulations. Preprint on arXiv XXX. 2025. Available on [arXiv]().  -->
+### Relevant preprints
+All preprints are submitted for journal publication and/or are currently undergoing review.
+* **Visbech, J**, Melander, A, Engsig-Karup, AP. FNPF-SEM: A parallel spectral element model in Firedrake for fully nonlinear water wave simulations. Preprint on arXiv (2506.09435). 2025. Available on [arXiv](https://arxiv.org/abs/2506.09435).
 
 
 

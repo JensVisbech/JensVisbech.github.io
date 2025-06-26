@@ -88,7 +88,7 @@ All conference papers have undergone some peer-review process.
 * _Dimensionality Reduction Techniques for Nonlinear Time-dependent Partial Differential Equations_. MSc Thesis. 2025. Student: Laurits Theil Nicolaisen.
 
 ### Academic achievements and more
-* Interview "Show me your PhD-project" (in danish). Link to [ForskerForum](https://dm.dk/forskerforum/magasinet/2025/forskerforum-nr-2-2025/fra-vvs-laerling-til-boelgeforsker/).
+* Interview: "Show me your PhD-project" (in danish). Link to [ForskerForum](https://dm.dk/forskerforum/magasinet/2025/forskerforum-nr-2-2025/fra-vvs-laerling-til-boelgeforsker/).
 * Receiver of [The Elite Research Travel Grant 2025](https://ufm.dk/forskning-og-innovation/forskningsformidling/eliteforsk/prismodtagere/prismodtagere-2025/eliteforsk-rejsestipendierne-2025/jens-visbech) from The Ministry for Higher Education and Science. 
 * Student presentation prize at ICCFD12.
 * Second place award in the [Tuck Fellowship 2022](http://www.iwwwfb.org/Tuck/tuckrecipients.htm) at IWWWFB37.
@@ -96,6 +96,6 @@ All conference papers have undergone some peer-review process.
 ### Acquired financial support from
 * Thomas B. Thriges Fond for ICCFD12 (July 2024). 
 * Skibsteknisk Selskabs Fond for IWWWFB39 (April 2024) and ICCFD12 (July 2024).
-* William Demant Fonden for IWWWFB39 (April 2024) and INRIA visit 2025 (Fall 2025)
+* William Demant Fonden for IWWWFB39 (April 2024) and INRIA visit 2025 (Fall 2025).
 * Otto Mønsteds Fond for IWWWFB37 (April 2022) and ISOPE2023 (June 2023).
-* Knud Højgaards Fond for INRIA visit 2025 (Fall 2025)
+* Knud Højgaards Fond for INRIA visit 2025 (Fall 2025).

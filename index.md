@@ -35,7 +35,7 @@ All preprints are submitted for journal publication and/or are currently undergo
 
 ### Conference papers
 All conference papers have undergone some peer-review process. 
-* **Visbech, J**, Melander, A, Engsig-Karup, AP. Modeling Nonlinear and Dispersive Wave Propagation and Wave-structure Interactions in Firedrake. Proceedings of ICSOS2025. 2025. Available on [ResearchGate]() soon.
+* **Visbech, J**, Melander, A, Engsig-Karup, AP. Modeling Nonlinear and Dispersive Wave Propagation and Wave-structure Interactions in Firedrake. Proceedings of ICSOS2025. 2025. Available soon.
 * **Visbech, J**, Engsig-Karup, AP, Bingham, HB, Amini-Afshar, M, Ricchiuto, M. A high-order shifted boundary method for water waves and floating bodies. Proceedings of IWWWFB39. 2024. Available on [ResearchGate](https://www.researchgate.net/publication/378149286_A_high-order_shifted_boundary_method_for_water_waves_and_floating_bodies).
 * **Visbech, J**,  Bingham, HB, Eskilsson, C, Palm, J, Engsig-Karup, AP. A high-order spectral element based time-domain simulation of a model-scale floating offshore wind turbine. Proceedings of ISOPE-2023. 2023. Available on [ResearchGate](https://www.researchgate.net/publication/369269201_A_High-order_Spectral_Element_based_Time-Domain_Simulation_of_a_Model-Scale_Floating_Offshore_Wind_Turbine).
 * **Visbech, J**, Engsig-Karup, AP, Bingham, HB. Efficient computation of the linear radiation problem using a spectral element method. Proceedings of IWWWFB37. 2022. Available on [ResearchGate](https://www.researchgate.net/publication/360261450_Efficient_Computation_of_the_Linear_Radiation_Problem_using_a_Spectral_Element_Method).
@@ -78,19 +78,24 @@ All conference papers have undergone some peer-review process.
 * DTU course 02601, [Introduction to numerical algorithms](https://kurser.dtu.dk/course/02601).
 
 ### Research projects
+* _New advanced simulation techniques for wave energy converters_.                        [Current PhD project](https://www.compute.dtu.dk/english/phd/current-phd/phd-sc/jens-visbech). 
 * _A new digital twin concept for floating offshore structures_.                          [COWIfonden (Grant no. A-165.19)](https://www.cowifonden.com/news/news/2024/cowifondens-donations-in-spring-2024).
 * _Efficient added mass calculations for large and complex floating offshore structures_. [COWIfonden (Grant no. A-159.15)](https://www.cowifonden.com/donations/recent-projects/donations-2022).
-* _New advanced simulation techniques for wave energy converters_.                        [Current PhD project](https://www.compute.dtu.dk/english/phd/current-phd/phd-sc/jens-visbech). 
 
 ### Selected supervised student projects (BSc and MSc theses)
-<!-- * _A new steady-state free surface solver for wave-structure interaction applications_. MSc Thesis. 2025. Student: Simone Minniti. -->
-<!-- *  --> 
-<!-- * --> 
+* _A new steady-state free surface solver for wave-structure interaction applications_. MSc Thesis. 2025. Student: Simone Minniti.
+* _Spectral element methods for potential flow around bodies_. BSc Thesis. 2025. Students: Magnus Troen and Morten Rønn Østergaard.
 * _Dimensionality Reduction Techniques for Nonlinear Time-dependent Partial Differential Equations_. MSc Thesis. 2025. Student: Laurits Theil Nicolaisen.
 
+### Academic achievements and more
+* Interview "Show me your PhD-project" (in danish). Link to [ForskerForum](https://dm.dk/forskerforum/magasinet/2025/forskerforum-nr-2-2025/fra-vvs-laerling-til-boelgeforsker/).
+* Receiver of [The Elite Research Travel Grant 2025](https://ufm.dk/forskning-og-innovation/forskningsformidling/eliteforsk/prismodtagere/prismodtagere-2025/eliteforsk-rejsestipendierne-2025/jens-visbech) from The Ministry for Higher Education and Science. 
+* Student presentation prize at ICCFD12.
+* Second place award in the [Tuck Fellowship 2022](http://www.iwwwfb.org/Tuck/tuckrecipients.htm) at IWWWFB37.
 
 ### Acquired financial support from
 * Thomas B. Thriges Fond for ICCFD12 (July 2024). 
 * Skibsteknisk Selskabs Fond for IWWWFB39 (April 2024) and ICCFD12 (July 2024).
-* William Demant Fonden for IWWWFB39 (April 2024).
+* William Demant Fonden for IWWWFB39 (April 2024) and INRIA visit 2025 (Fall 2025)
 * Otto Mønsteds Fond for IWWWFB37 (April 2022) and ISOPE2023 (June 2023).
+* Knud Højgaards Fond for INRIA visit 2025 (Fall 2025)

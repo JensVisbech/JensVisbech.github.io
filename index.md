@@ -83,7 +83,7 @@ All conference papers have undergone some peer-review process.
 * _Efficient added mass calculations for large and complex floating offshore structures_. [COWIfonden (Grant no. A-159.15)](https://www.cowifonden.com/donations/recent-projects/donations-2022).
 
 ### Selected supervised student projects (BSc and MSc theses)
-* _A new steady-state free surface solver for wave-structure interaction applications_. MSc Thesis. 2025. Student: Simone Minniti.
+* _A new steady-state free surface solver for wave-structure interaction applications_. MSc Thesis. 2025. Winner of the DANSIS Graduate Award. Student: Simone Minniti.
 * _Spectral element methods for potential flow around bodies_. BSc Thesis. 2025. Students: Magnus Troen and Morten Rønn Østergaard.
 * _Dimensionality Reduction Techniques for Nonlinear Time-dependent Partial Differential Equations_. MSc Thesis. 2025. Student: Laurits Theil Nicolaisen.
 
@@ -94,8 +94,9 @@ All conference papers have undergone some peer-review process.
 * Second place award in the [Tuck Fellowship 2022](http://www.iwwwfb.org/Tuck/tuckrecipients.htm) at IWWWFB37.
 
 ### Acquired financial support from
-* Thomas B. Thriges Fond for ICCFD12 (July 2024). 
-* Skibsteknisk Selskabs Fond for IWWWFB39 (April 2024) and ICCFD12 (July 2024).
+* Thomas B. Thriges Fond for ICCFD12 (July 2024) and INRIA visit 2025 (Fall 2025).
+* Skibsteknisk Selskabs Fond for IWWWFB39 (April 2024), ICCFD12 (July 2024), and INRIA visit 2025 (Fall 2025).
 * William Demant Fonden for IWWWFB39 (April 2024) and INRIA visit 2025 (Fall 2025).
 * Otto Mønsteds Fond for IWWWFB37 (April 2022) and ISOPE2023 (June 2023).
-* Knud Højgaards Fond for INRIA visit 2025 (Fall 2025).
+* Familien Hede Nielsens Fond for INRIA visit 2025 (Fall 2025).
+<!-- * Knud Højgaards Fond for INRIA visit 2025 (Fall 2025). -->

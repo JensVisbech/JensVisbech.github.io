@@ -7,7 +7,7 @@ I'm originally from the Jutland countryside in Denmark; however, I've been livin
 <!-- <img src="https://github.com/JensVisbech/JensVisbech.github.io/blob/main/Picture_1.JPG" width="200" height="200"> -->
 
 ### Research at the moment
-Currently, I'm doing my PhD at the Technical University of Denmark (DTU). My project, "_New advanced simulation techniques for wave energy converters_", is funded by a DTU PhD scholarship at the Department of Applied Mathematics and Computer Science (Compute) and will continue until October, 2026. My main interest - at the moment - is related to unfitted/embedded/immersed boundary methods, i.e. simple ways to circumvent cumbersome mesh generation for finite element methods. That is, of course, connected to problems of wave propagation and wave-structure interactions.
+Currently, I'm doing my PhD at the Technical University of Denmark (DTU). My project, "_New advanced simulation techniques for wave energy converters_", is funded by a DTU PhD scholarship at the Department of Applied Mathematics and Computer Science (Compute) and will continue until December, 2026. My main interest - at the moment - is related to unfitted/embedded/immersed boundary methods, i.e. simple ways to circumvent cumbersome mesh generation for finite element methods. That is, of course, connected to problems of wave propagation and wave-structure interactions.
 
 ### Contact information
 Emails: jvis@dtu.dk (DTU) and jenshaakon@gmail.com (private). Phone: +45 60 17 05 72.
@@ -36,6 +36,7 @@ All preprints are submitted for journal publication and/or are currently undergo
 
 ### Conference papers
 All conference papers have undergone some peer-review process. 
+* **Visbech, J**, Engsig-Karup, AP, Bingham, HB, Ricchiuto, M. Recent progress on modeling nonlinear wave propagation and wave-structure interaction using a high-order shifted boundary method: Capabilities, challenges, and perspectives. Proceedings of IWWWFB41. 2026. Available on [ResearchGate](https://www.researchgate.net/publication/402162193_Recent_progress_on_modeling_nonlinear_wave_propagation_and_wave-structure_interaction_using_a_high-order_shifted_boundary_method_Capabilities_challenges_and_perspectives).
 * **Visbech, J**, Melander, A, Engsig-Karup, AP. Modeling Nonlinear and Dispersive Wave Propagation and Wave-structure Interactions in Firedrake. Proceedings of ICSOS2025. 2025. Available soon.
 * **Visbech, J**, Engsig-Karup, AP, Bingham, HB, Amini-Afshar, M, Ricchiuto, M. A high-order shifted boundary method for water waves and floating bodies. Proceedings of IWWWFB39. 2024. Available on [ResearchGate](https://www.researchgate.net/publication/378149286_A_high-order_shifted_boundary_method_for_water_waves_and_floating_bodies).
 * **Visbech, J**,  Bingham, HB, Eskilsson, C, Palm, J, Engsig-Karup, AP. A high-order spectral element based time-domain simulation of a model-scale floating offshore wind turbine. Proceedings of ISOPE-2023. 2023. Available on [ResearchGate](https://www.researchgate.net/publication/369269201_A_High-order_Spectral_Element_based_Time-Domain_Simulation_of_a_Model-Scale_Floating_Offshore_Wind_Turbine).

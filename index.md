@@ -47,7 +47,9 @@ All conference papers have undergone some peer-review process.
 # Conference contributions and participations
 | Year | Name | Location | Title of talk(s) | Link(s) |
 |:-------------|:------------------|:------|:------|:------|
-| **2025** | ICSOS2025   | Gothenburg, Sweden (planned)      |  Modeling Nonlinear and Dispersive Wave Propagation and Wave-structure Interactions in Firedrake | [Proceedings]() [Abstract]() |
+| **2026** | WCCM ECCOMAS 2026 (planned)   | Munich, Germany      |  Using unfitted high-order spectral elements for wave-structure interaction with a polynomial-corrected shifted boundary approach. | [ Abstract]() |
+|  | IWWWFB41 (planned)   | Plitvice, Croatia        |  Recent progress on modeling nonlinear wave propagation and wave-structure interaction using a high-order shifted boundary method: Capabilities, challenges, and perspectives. | [Abstract](https://www.researchgate.net/publication/402162193_Recent_progress_on_modeling_nonlinear_wave_propagation_and_wave-structure_interaction_using_a_high-order_shifted_boundary_method_Capabilities_challenges_and_perspectives) |
+| **2025** | ICSOS2025   | Gothenburg, Sweden      |  Modeling Nonlinear and Dispersive Wave Propagation and Wave-structure Interactions in Firedrake. | [Proceedings]() [Abstract]() |
 |  | DNV   | Kgs. Lyngby, Denmark       |  A Digital Twin Framework for Massively Parallel Simulations of Water Waves interacting with Large-Scale Offshore Structures | [Abstract](https://orbit.dtu.dk/en/publications/a-digital-twin-framework-for-massively-parallel-simulations-of-wa) |
 | **2024** | ICCFD12   | Kobe, Japan       | An unfitted high-order spectral element method for incompressible Navier-Stokes equations with a free surface: The pressure problem.  | [Abstract](https://orbit.dtu.dk/en/publications/an-unfitted-high-order-spectral-element-method-for-incompressible) |
 |  | IWWWFB39   | St Andrews, Scotland       | A high-order shifted boundary method for water waves and floating bodies.  | [Proceedings](https://www.researchgate.net/publication/378149286_A_high-order_shifted_boundary_method_for_water_waves_and_floating_bodies) |
@@ -90,6 +92,7 @@ All conference papers have undergone some peer-review process.
 * _Dimensionality Reduction Techniques for Nonlinear Time-dependent Partial Differential Equations_. MSc Thesis. 2025. Student: Laurits Theil Nicolaisen.
 
 ### Academic achievements and more
+* 
 * Interview: "Show me your PhD-project" (in danish). Link to [ForskerForum](https://dm.dk/forskerforum/magasinet/2025/forskerforum-nr-2-2025/fra-vvs-laerling-til-boelgeforsker/).
 * Receiver of [The Elite Research Travel Grant 2025](https://ufm.dk/forskning-og-innovation/forskningsformidling/eliteforsk/prismodtagere/prismodtagere-2025/eliteforsk-rejsestipendierne-2025/jens-visbech) from The Ministry for Higher Education and Science. 
 * Student presentation prize at ICCFD12.
@@ -101,4 +104,3 @@ All conference papers have undergone some peer-review process.
 * William Demant Fonden for IWWWFB39 (April 2024) and INRIA visit 2025 (Fall 2025).
 * Otto Mønsteds Fond for IWWWFB37 (April 2022) and ISOPE2023 (June 2023).
 * Familien Hede Nielsens Fond for INRIA visit 2025 (Fall 2025).
-<!-- * Knud Højgaards Fond for INRIA visit 2025 (Fall 2025). -->

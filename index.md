@@ -92,7 +92,7 @@ All conference papers have undergone some peer-review process.
 * _Dimensionality Reduction Techniques for Nonlinear Time-dependent Partial Differential Equations_. MSc Thesis. 2025. Student: Laurits Theil Nicolaisen.
 
 ### Academic achievements and more
-* 
+* [Newman-Evans Fellowship](https://iwwwfb2026.fsb.hr/?tuck-newman-evans-fellowship) 2026 at IWWWFB41.
 * Interview: "Show me your PhD-project" (in danish). Link to [ForskerForum](https://dm.dk/forskerforum/magasinet/2025/forskerforum-nr-2-2025/fra-vvs-laerling-til-boelgeforsker/).
 * Receiver of [The Elite Research Travel Grant 2025](https://ufm.dk/forskning-og-innovation/forskningsformidling/eliteforsk/prismodtagere/prismodtagere-2025/eliteforsk-rejsestipendierne-2025/jens-visbech) from The Ministry for Higher Education and Science. 
 * Student presentation prize at ICCFD12.

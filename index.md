@@ -7,7 +7,7 @@ I have been living in Copenhagen since 2016 with my wife and our son (born in 20
 
 <figure style="text-align: center;">
   <img src="Picture_1.JPG" width="300">
-  <figcaption>Figure 1: Wave profile at t = 5 s.</figcaption>
+  <figcaption>Figure 1: Me.</figcaption>
 </figure>
 
 ### Research at the moment

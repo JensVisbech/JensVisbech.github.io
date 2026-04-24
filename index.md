@@ -2,9 +2,13 @@ Welcome to my personal webpage. Here, you will find highlights and information a
 
 
 # About me
-I'm originally from the Jutland countryside in Denmark; however, I've been living in Copenhagen since 2016. I appreciate traveling and enjoy spending my spare time cycling around the outskirts of Zealand and wherever I travel.
 
-<!-- <img src="https://github.com/JensVisbech/JensVisbech.github.io/blob/main/Picture_1.JPG" width="200" height="200"> -->
+I have been living in Copenhagen since 2016 with my wife and our son (born in 2025). In my spare time, I enjoy spending time with friends and family and going for a bike ride when time permits.
+
+<figure style="text-align: center;">
+  <img src="Picture_1.JPG" width="300">
+  <figcaption>Figure 1: Wave profile at t = 5 s.</figcaption>
+</figure>
 
 ### Research at the moment
 Currently, I'm doing my PhD at the Technical University of Denmark (DTU). My project, "_New advanced simulation techniques for wave energy converters_", is funded by a DTU PhD scholarship at the Department of Applied Mathematics and Computer Science (Compute) and will continue until December, 2026. My main interest - at the moment - is related to unfitted/embedded/immersed boundary methods, i.e. simple ways to circumvent cumbersome mesh generation for finite element methods. That is, of course, connected to problems of wave propagation and wave-structure interactions.

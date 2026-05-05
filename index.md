@@ -51,15 +51,14 @@ All conference papers have undergone some peer-review process.
 # Conference contributions and participations
 | Year | Name | Location | Title of talk(s) | Link(s) |
 |:-------------|:------------------|:------|:------|:------|
-| **2026** | WCCM ECCOMAS 2026 (planned)   | Munich, Germany      |  Using unfitted high-order spectral elements for wave-structure interaction with a polynomial-corrected shifted boundary approach. | [ Abstract]() |
-|  | IWWWFB41 (planned)   | Plitvice, Croatia        |  Recent progress on modeling nonlinear wave propagation and wave-structure interaction using a high-order shifted boundary method: Capabilities, challenges, and perspectives. | [Proceedings](https://www.researchgate.net/publication/402162193_Recent_progress_on_modeling_nonlinear_wave_propagation_and_wave-structure_interaction_using_a_high-order_shifted_boundary_method_Capabilities_challenges_and_perspectives) |
+| **2026** | WCCM ECCOMAS 2026 (planned)   | Munich, Germany      |  Using unfitted high-order spectral elements for wave-structure interaction with a polynomial-corrected shifted boundary approach. | [ Abstract](https://orbit.dtu.dk/en/publications/using-unfitted-high-order-spectral-elements-for-wave-structure-in/) |
+|  | IWWWFB41   | Plitvice, Croatia        |  Recent progress on modeling nonlinear wave propagation and wave-structure interaction using a high-order shifted boundary method: Capabilities, challenges, and perspectives. | [Proceedings](https://www.researchgate.net/publication/402162193_Recent_progress_on_modeling_nonlinear_wave_propagation_and_wave-structure_interaction_using_a_high-order_shifted_boundary_method_Capabilities_challenges_and_perspectives) |
 | **2025** | ICSOS2025   | Gothenburg, Sweden      |  Modeling Nonlinear and Dispersive Wave Propagation and Wave-structure Interactions in Firedrake. | [Proceedings]() [Abstract]() |
 |  | DNV   | Kgs. Lyngby, Denmark       |  A Digital Twin Framework for Massively Parallel Simulations of Water Waves interacting with Large-Scale Offshore Structures | [Abstract](https://orbit.dtu.dk/en/publications/a-digital-twin-framework-for-massively-parallel-simulations-of-wa) |
 | **2024** | ICCFD12   | Kobe, Japan       | An unfitted high-order spectral element method for incompressible Navier-Stokes equations with a free surface: The pressure problem.  | [Abstract](https://orbit.dtu.dk/en/publications/an-unfitted-high-order-spectral-element-method-for-incompressible) |
 |  | IWWWFB39   | St Andrews, Scotland       | A high-order shifted boundary method for water waves and floating bodies.  | [Proceedings](https://www.researchgate.net/publication/378149286_A_high-order_shifted_boundary_method_for_water_waves_and_floating_bodies) |
 | **2023** | ISOPE2023  | Ottawa, Canada             | A high-order spectral element based time-domain simulation of a model-scale floating offshore wind turbine.  | [Proceedings](https://www.researchgate.net/publication/369269201_A_High-order_Spectral_Element_based_Time-Domain_Simulation_of_a_Model-Scale_Floating_Offshore_Wind_Turbine) [Abstract](https://orbit.dtu.dk/en/publications/a-linear-3d-spectral-element-time-domain-solution-to-a-floating-o) |
 |  | CFC2023    | Cannes, France              | Solving the linear radiation problem in 3D using the spectral element method. | [Abstract](https://orbit.dtu.dk/en/publications/solving-the-linear-radiation-problem-in-3d-using-the-spectral-ele) |
-|  |     |             |  Reduced order modelling for wave-structure modelling. (_co-authored_)|  [Abstract](https://orbit.dtu.dk/en/publications/reduced-order-modelling-for-wave-structure-modelling) |
 |  | SIAM CSE23 | Amsterdam, The Netherlands  | The shifted boundary method for embedded domain computations using a high-order Spectral Element method for the 2D Poisson problem. | [Abstract](https://orbit.dtu.dk/en/publications/the-shifted-boundary-method-for-embedded-domain-computations-usin) |
 | **2022** | IWWWFB37   | Giardini Naxos, Italy      | Efficient computation of the linear radiation problem using a spectral element method. | [Proceedings](https://www.researchgate.net/publication/360261450_Efficient_Computation_of_the_Linear_Radiation_Problem_using_a_Spectral_Element_Method) |
 
@@ -72,10 +71,11 @@ All conference papers have undergone some peer-review process.
 # Other
 
 ### Seminars and talks
-* _Simulation of water waves and floating bodies on simple high-order unfitted meshes_, May 2024,       Maynooth,    Ireland, chair: John Ringwood.
-* _A high-order shifted boundary method for water waves and floating bodies_,           April 2024,     Kgs. Lyngby, Denmark, chair: Harry Bingham.
-* _A high-order accurate shifted boundary method for room acoustics_,                   October 2023,   Kgs. Lyngby, Denmark, chair: Cheol-Ho Jeong.
-* _New advanced simulation techniques for wave energy converters_,                      September 2023, Maynooth,    Ireland, chair: John Ringwood.
+* _New Water Wave Simulation Methods for a Digital Twin Framework for Offshore Structures_,   May 2026,       Kgs. Lyngby, Denmark, chair: Unknown
+* _Simulation of water waves and floating bodies on simple high-order unfitted meshes_,       May 2024,       Maynooth,    Ireland, chair: John Ringwood.
+* _A high-order shifted boundary method for water waves and floating bodies_,                 April 2024,     Kgs. Lyngby, Denmark, chair: Harry Bingham.
+* _A high-order accurate shifted boundary method for room acoustics_,                         October 2023,   Kgs. Lyngby, Denmark, chair: Cheol-Ho Jeong.
+* _New advanced simulation techniques for wave energy converters_,                            September 2023, Maynooth,    Ireland, chair: John Ringwood.
 
 ### Lecturing
 * DTU course 02689, [Advanced numerical methods for differential equations](https://kurser.dtu.dk/course/02689). Lecture on: _The shifted boundary method for boundary value problems_, November 2023 and October 2024.
@@ -103,8 +103,8 @@ All conference papers have undergone some peer-review process.
 * Second place award in the [Tuck Fellowship 2022](http://www.iwwwfb.org/Tuck/tuckrecipients.htm) at IWWWFB37.
 
 ### Acquired financial support from
-* Thomas B. Thriges Fond for ICCFD12 (July 2024) and INRIA visit 2025 (Fall 2025).
-* Skibsteknisk Selskabs Fond for IWWWFB39 (April 2024), ICCFD12 (July 2024), and INRIA visit 2025 (Fall 2025).
-* William Demant Fonden for IWWWFB39 (April 2024) and INRIA visit 2025 (Fall 2025).
-* Otto Mønsteds Fond for IWWWFB37 (April 2022) and ISOPE2023 (June 2023).
-* Familien Hede Nielsens Fond for INRIA visit 2025 (Fall 2025).
+* Thomas B. Thriges Fond: ICCFD12 (July 2024) and INRIA visit 2025 (Fall 2025).
+* Skibsteknisk Selskabs Fond: IWWWFB39 (April 2024), ICCFD12 (July 2024), and INRIA visit 2025 (Fall 2025).
+* William Demant Fonden: IWWWFB39 (April 2024) and INRIA visit 2025 (Fall 2025).
+* Otto Mønsteds Fond: IWWWFB37 (April 2022) and ISOPE2023 (June 2023).
+* Familien Hede Nielsens Fond: INRIA visit 2025 (Fall 2025).

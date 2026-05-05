@@ -48,7 +48,7 @@ All conference papers have undergone some peer-review process.
 
 
 
-# Conference contributions and participations
+# Conference participations
 | Year | Name | Location | Title of talk(s) | Link(s) |
 |:-------------|:------------------|:------|:------|:------|
 | **2026** | WCCM ECCOMAS 2026 (planned)   | Munich, Germany      |  Using unfitted high-order spectral elements for wave-structure interaction with a polynomial-corrected shifted boundary approach. | [ Abstract](https://orbit.dtu.dk/en/publications/using-unfitted-high-order-spectral-elements-for-wave-structure-in/) |
@@ -108,3 +108,7 @@ All conference papers have undergone some peer-review process.
 * William Demant Fonden: IWWWFB39 (April 2024) and INRIA visit 2025 (Fall 2025).
 * Otto Mønsteds Fond: IWWWFB37 (April 2022) and ISOPE2023 (June 2023).
 * Familien Hede Nielsens Fond: INRIA visit 2025 (Fall 2025).
+
+# Figures and GIFs from my research
+
+

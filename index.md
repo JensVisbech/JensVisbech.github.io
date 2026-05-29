@@ -71,7 +71,7 @@ All conference papers have undergone some peer-review process.
 # Other
 
 ### Seminars and talks
-* _New Water Wave Simulation Methods for a Digital Twin Framework for Offshore Structures_,   May 2026,       Kgs. Lyngby, Denmark, chair: Unknown
+* _New Water Wave Simulation Methods for a Digital Twin Framework for Offshore Structures_,   May 2026,       Kgs. Lyngby, Denmark, chair: Knud Erik Meyer.
 * _Simulation of water waves and floating bodies on simple high-order unfitted meshes_,       May 2024,       Maynooth,    Ireland, chair: John Ringwood.
 * _A high-order shifted boundary method for water waves and floating bodies_,                 April 2024,     Kgs. Lyngby, Denmark, chair: Harry Bingham.
 * _A high-order accurate shifted boundary method for room acoustics_,                         October 2023,   Kgs. Lyngby, Denmark, chair: Cheol-Ho Jeong.

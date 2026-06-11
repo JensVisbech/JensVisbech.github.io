@@ -111,4 +111,9 @@ All conference papers have undergone some peer-review process.
 
 # Figures and GIFs from my research
 
+<figure style="text-align: center;">
+  <img src="breakwater_30.gif" width="300">
+  <figcaption> GIF 1: Waves interacting with a V-shaped breakwater. </figcaption>
+</figure>
+
 

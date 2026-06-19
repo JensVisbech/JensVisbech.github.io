@@ -23,6 +23,7 @@ Links: [ResearchGate](https://www.researchgate.net/profile/Jens_Visbech), [DTU O
 # Publication list
 
 ### Journal papers
+* **Visbech, J**, Melander, A, Engsig-Karup, AP. FNPF-SEM: A parallel spectral element model in Firedrake for fully nonlinear water wave simulations. _Int. J. High Perform. Comput. Appl._ 2026. [doi.org/10.1177/10943420261462394](https://doi.org/10.1177/10943420261462394).
 * Yu, S, ..., **Visbech, J**, ..., Lara, J. L. Modelling the hydrodynamic response of a floating offshore wind turbine – a comparative study. _Appl. Ocean Res._ 2025; 155. [doi.org/10.1016/j.apor.2025.104441](https://doi.org/10.1016/j.apor.2025.104441).
 * **Visbech, J**, Engsig-Karup, AP, Ricchiuto, M. A Spectral Element Solution of the Poisson Equation with Shifted Boundary Polynomial Corrections: Influence of the Surrogate to True Boundary Mapping and an Asymptotically Preserving Robin Formulation. _J. Sci. Comput._ 2025; 102(11). [doi.org/10.1007/s10915-024-02713-z](https://doi.org/10.1007/s10915-024-02713-z).
 * **Visbech, J**, Bingham, HB, Eskilsson, C, Palm, J, Engsig-Karup, AP. A high-order accurate spectral element-based time-domain simulation of a model-scale floating offshore wind turbine. _Int. J. Offshore Polar_. 2024; 34(3): 254-262. [doi.org/10.17736/ijope.2024.sv17](https://www.isope.org/ijope-volume-34-issue-3-september-2024/).
@@ -33,7 +34,7 @@ Links: [ResearchGate](https://www.researchgate.net/profile/Jens_Visbech), [DTU O
 ### Relevant preprints
 All preprints are submitted for journal publication and/or are currently undergoing review.
 * Minniti, S, **Visbech, J**, Eskilsson, C, Parolini, N, Engsig-Karup, AP. A High-Order Spectral Element Solver for Steady-State Free Surface Flows. Preprint on arXiv (2512.23648). 2025. Available on [arXiv](https://arxiv.org/abs/2512.23648).
-* **Visbech, J**, Melander, A, Engsig-Karup, AP. FNPF-SEM: A parallel spectral element model in Firedrake for fully nonlinear water wave simulations. Preprint on arXiv (2506.09435). 2025. Available on [arXiv](https://arxiv.org/abs/2506.09435).
+
 
 
 

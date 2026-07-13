@@ -33,7 +33,6 @@ Links: [ResearchGate](https://www.researchgate.net/profile/Jens_Visbech), [DTU O
 
 ### Relevant preprints
 All preprints are submitted for journal publication and/or are currently undergoing review.
-* Schou, A, **Visbech, J**, Engsig-Karup, AP. Estimating Hydrodynamic Coefficients for Floating Offshore Structures from Movement Data Using Physics-Informed Neural Networks. Preprint on arXiv (2607.04967). 2026. Available on [arXiv](https://arxiv.org/abs/2607.04967).
 * Minniti, S, **Visbech, J**, Eskilsson, C, Parolini, N, Engsig-Karup, AP. A High-Order Spectral Element Solver for Steady-State Free Surface Flows. Preprint on arXiv (2512.23648). 2025. Available on [arXiv](https://arxiv.org/abs/2512.23648).
 
 
@@ -49,6 +48,8 @@ All conference papers have undergone some peer-review process.
 * **Visbech, J**, Engsig-Karup, AP, Bingham, HB. Efficient computation of the linear radiation problem using a spectral element method. Proceedings of IWWWFB37. 2022. Available on [ResearchGate](https://www.researchgate.net/publication/360261450_Efficient_Computation_of_the_Linear_Radiation_Problem_using_a_Spectral_Element_Method).
 
 
+### Other published work
+* Schou, A, **Visbech, J**, Engsig-Karup, AP. Estimating Hydrodynamic Coefficients for Floating Offshore Structures from Movement Data Using Physics-Informed Neural Networks. Preprint on arXiv (2607.04967). 2026. Available on [arXiv](https://arxiv.org/abs/2607.04967).
 
 # Conference participations
 | Year | Name | Location | Title of talk(s) | Link(s) |

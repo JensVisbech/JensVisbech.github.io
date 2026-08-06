@@ -32,7 +32,7 @@ Links: [ResearchGate](https://www.researchgate.net/profile/Jens_Visbech), [DTU O
 
 
 ### Relevant preprints
-All preprints are submitted for journal publication and/or are currently undergoing review.
+All preprints are submitted for journal publication and currently undergoing review.
 * Minniti, S, **Visbech, J**, Eskilsson, C, Parolini, N, Engsig-Karup, AP. A High-Order Spectral Element Solver for Steady-State Free Surface Flows. Preprint on arXiv (2512.23648). 2025. Available on [arXiv](https://arxiv.org/abs/2512.23648).
 
 
@@ -52,9 +52,18 @@ All conference papers have undergone some peer-review process.
 * Schou, A, **Visbech, J**, Engsig-Karup, AP. Estimating Hydrodynamic Coefficients for Floating Offshore Structures from Movement Data Using Physics-Informed Neural Networks. Preprint on arXiv (2607.04967). 2026. Available on [arXiv](https://arxiv.org/abs/2607.04967).
 
 # Conference participations
-| Year | Name | Location | Title of talk(s) | Link(s) |
+
+## Mini symposium (co)-organized:
+| Year | Conference | Location | Title of mini symposium | Link |
 |:-------------|:------------------|:------|:------|:------|
-| **2026** | WCCM ECCOMAS 2026 (planned)   | Munich, Germany      |  Using unfitted high-order spectral elements for wave-structure interaction with a polynomial-corrected shifted boundary approach. | [ Abstract](https://orbit.dtu.dk/en/publications/using-unfitted-high-order-spectral-elements-for-wave-structure-in/) |
+| **2027** | CFC2027 (planned)   | Yokohama, Japan      |  Advanced Computational Methods for Free-surface Water Waves | [ Description](https://cfc2027.iacm.info/event/area/7e81e8a9-4eca-11f1-8fc4-000c29ddfc0c) |
+
+## Presentations:
+| Year | Conference | Location | Title of talk | Link(s) |
+|:-------------|:------------------|:------|:------|:------|
+| **2027** | CFC2027 (planned)   | Yokohama, Japan      |   |   |
+|  | DTE2027 (planned)   | Yokohama, Japan      |   |   |
+| **2026** | WCCM ECCOMAS 2026   | Munich, Germany      |  Using unfitted high-order spectral elements for wave-structure interaction with a polynomial-corrected shifted boundary approach. | [ Abstract](https://orbit.dtu.dk/en/publications/using-unfitted-high-order-spectral-elements-for-wave-structure-in/) |
 |  | IWWWFB41   | Plitvice, Croatia        |  Recent progress on modeling nonlinear wave propagation and wave-structure interaction using a high-order shifted boundary method: Capabilities, challenges, and perspectives. | [Proceedings](https://www.researchgate.net/publication/402162193_Recent_progress_on_modeling_nonlinear_wave_propagation_and_wave-structure_interaction_using_a_high-order_shifted_boundary_method_Capabilities_challenges_and_perspectives) |
 | **2025** | ICSOS2025   | Gothenburg, Sweden      |  Modeling Nonlinear and Dispersive Wave Propagation and Wave-structure Interactions in Firedrake. | [Proceedings]() [Abstract]() |
 |  | DNV   | Kgs. Lyngby, Denmark       |  A Digital Twin Framework for Massively Parallel Simulations of Water Waves interacting with Large-Scale Offshore Structures | [Abstract](https://orbit.dtu.dk/en/publications/a-digital-twin-framework-for-massively-parallel-simulations-of-wa) |

@@ -56,7 +56,7 @@ All conference papers have undergone some peer-review process.
 ## Mini symposium (co)-organized:
 | Year | Conference | Location | Title of mini symposium | Link |
 |:-------------|:------------------|:------|:------|:------|
-| **2027** | CFC2027 (planned)   | Yokohama, Japan      |  Advanced Computational Methods for Free-surface Water Waves | [ Description](https://cfc2027.iacm.info/event/area/7e81e8a9-4eca-11f1-8fc4-000c29ddfc0c) |
+| **2027** | CFC2027 (planned)   | Yokohama, Japan      |  Advanced Computational Methods for Free-surface Water Waves. | [ Description](https://cfc2027.iacm.info/event/area/7e81e8a9-4eca-11f1-8fc4-000c29ddfc0c) |
 
 ## Presentations:
 | Year | Conference | Location | Title of talk | Link(s) |

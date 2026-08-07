@@ -33,6 +33,7 @@ Links: [ResearchGate](https://www.researchgate.net/profile/Jens_Visbech), [DTU O
 
 ### Relevant preprints
 All preprints are submitted for journal publication and currently undergoing review.
+* Ciallella, C, **Visbech, J**. Generalized high-order minimization-based polynomial corrections on unfitted spectral elements for the Poisson problem. Preprint on arXiv (xxx). 2026. Available on [arXiv]().
 * Minniti, S, **Visbech, J**, Eskilsson, C, Parolini, N, Engsig-Karup, AP. A High-Order Spectral Element Solver for Steady-State Free Surface Flows. Preprint on arXiv (2512.23648). 2025. Available on [arXiv](https://arxiv.org/abs/2512.23648).
 
 

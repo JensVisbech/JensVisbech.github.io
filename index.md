@@ -3,7 +3,7 @@ Welcome to my personal webpage. Here, you will find highlights and information a
 
 # About me
 
-I have been living in Copenhagen since 2016 with my wife and our son (born in 2025). In my spare time, I enjoy spending time with friends and family and going for a bike ride when time permits.
+I living in Copenhagen (since 2016) with my wife and our son (born in 2025). In my spare time, I enjoy spending time with friends and family and going for a bike ride when time permits.
 
 <figure style="text-align: center;">
   <img src="Picture_1.JPG" width="300">
@@ -33,7 +33,7 @@ Links: [ResearchGate](https://www.researchgate.net/profile/Jens_Visbech), [DTU O
 
 ### Relevant preprints
 All preprints are submitted for journal publication and currently undergoing review.
-* **Visbech, J**, Engsig-Karup, AP, Bingham, HB, Ricchiuto, M. A high-order polynomial-corrected shifted boundary method for simulating fully nonlinear water waves. Preprint on arXiv (xxx). 2026. Available on [arXiv]().
+* **Visbech, J**, Engsig-Karup, AP, Bingham, HB, Ricchiuto, M. A high-order polynomial-corrected shifted boundary method for simulating fully nonlinear water waves. Preprint on arXiv (2608.28123). 2026. Available on [arXiv](https://arxiv.org/abs/2608.28123).
 * Ciallella, C, **Visbech, J**. Generalized high-order minimization-based polynomial corrections on unfitted spectral elements for the Poisson problem. Preprint on arXiv (2608.06999). 2026. Available on [arXiv](https://arxiv.org/abs/2608.06999).
 * Minniti, S, **Visbech, J**, Eskilsson, C, Parolini, N, Engsig-Karup, AP. A High-Order Spectral Element Solver for Steady-State Free Surface Flows. Preprint on arXiv (2512.23648). 2025. Available on [arXiv](https://arxiv.org/abs/2512.23648).
 

@@ -92,7 +92,7 @@ All conference papers have undergone some peer-review process.
 * _New advanced simulation techniques for wave energy converters_,                            September 2023, Maynooth,    Ireland, chair: John Ringwood.
 
 ### Lecturing
-* DTU course 02689, [Advanced numerical methods for differential equations](https://kurser.dtu.dk/course/02689). Lecture on: _The shifted boundary method for boundary value problems_, November 2023 and October 2024.
+* DTU course 02689, [Advanced numerical methods for differential equations](https://kurser.dtu.dk/course/02689). Lecture on: _The shifted boundary method for boundary value problems_, November 2023 and October 2024. Lecture on: _Introduction to spectral methods: The finite difference method and the Fourier method_, September 2026.
 * DTU course 02687, [Scientific computing for ordinary and partial differential equations](https://kurser.dtu.dk/course/02687). Lecture on: _Parabolic partial differential equations_, April 2023.
 
 ### Teaching Assistant
